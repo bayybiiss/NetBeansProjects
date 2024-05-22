@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,100,0,0,2,25"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="0"/>
+    <SyntheticProperty name="generateSize" type="boolean" value="true"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="406" max="-2" attributes="0"/>
+              <EmptySpace pref="8" max="32767" attributes="0"/>
+              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jButton2" min="-2" pref="99" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace pref="52" max="32767" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="457" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Belki de &#x130;ktidardaki &#x15e;eytan&#xa;1960&apos;lar&#x131;n             sonlar&#x131;na             do&#x11f;ru Sabahattin                                    Ali&apos;yi             nihayet okuyabilmi&#x15f;tim. Ama bu okumalar&#x131;n ge&#xe7;mi&#x15f;e uzanan bir maceras&#x131; vard&#x131;.&#xa;Daha Galatasaray Lisesi&apos;nde ortaokul &#xf6;&#x11f;rencisiyken yak&#x131;n d&#xf6;nem T&#xfc;rk edebiyat&#x131; yazarlar&#x131;n&#x131;n  eserlerini b&#xfc;y&#xfc;k bir tutkuyla okuyordum. Ba&#x15f;lang&#x131;&#xe7; talihliydi; &#xe7;&#xfc;nk&#xfc;  halka kitap okumay&#x131; sevdirten yazarlar&#x131;n romanlar&#x131;yla ba&#x15f;lam&#x131;&#x15f;t&#x131;m. Kerime Nadimi Esat Mahmut, Ethem &#x130;zzet Benice&apos;yi Muazzez Tahsin Berkand takip etmi&#x15f;ti.&#xa;&#xd6;nce Re&#x15f;at Nuri b&#xfc;y&#xfc;ledi beni. &#xc7;al&#x131;ku&#x15f;u&#x2019;nu, Dudaktan Kalbe&apos;yi ve Ak&#x15f;am G&#xfc;ne&#x15f;ini derin hayranl&#x131;k duyarak okudum. Sonra Halide  Edip  ve Yakup Kadri. Uzay&#x131;p gider liste.&#xa;Okumak mutluluk verdik&#xe7;e, hem d&#xfc;nya edebiyat&#x131;n&#x131;n hem T&#xfc;rk edebiyat&#x131;n&#x131;n yazarlar&#x131;na kavu&#x15f;tuk&#xe7;a ufkum geni&#x15f;liyordu. Roman&#x131;n yan&#x131;&#xa;&#xa;&#xa;s&#x131;ra &#xf6;yk&#xfc;; &#xf6;yk&#xfc;den bir zaman sonra da &#x15f;iir.&#xa;B&#xfc;t&#xfc;n bu s&#xfc;re&#xe7;te Sabahattin Ali ad&#x131;n&#x131; nereden i&#x15f;itmi&#x15f;sem i&#x15f;itmi&#x15f;tim. Eserlerini bulmak olanaks&#x131;zd&#x131;. Bana, Sabahattin Ali&apos;nin t&#x131;pk&#x131; N&#xe2;z&#x131;m Hikmet gibi memlekete zararl&#x131; bir insan oldu&#x11f;unu                              s&#xf6;ylediler.           Kimler s&#xf6;ylemi&#x15f;ti, tam &#xe7;&#x131;karam&#x131;yorum.&#xa;Yaln&#x131;z, &apos;memlekete zararl&#x131;l&#x131;&#x11f;&#x131;n&apos; boyutu ki&#x15f;iden ki&#x15f;iye de&#x11f;i&#x15f;mi&#x15f; olmal&#x131; ki, Sabahattin Ali&apos;yi bazan &apos;vatan haini&apos;, bazan &apos;vatan haini bir kom&#xfc;nist&apos; falan gibisinden       damgalan&#x131;&#x15f;larla tan&#x131;m&#x131;&#x15f;t&#x131;m.&#xa;N&#xe2;z&#x131;m Hikmet konusunda zaten &#xfc;rperti verici bir an&#x131;m vard&#x131;. Ada, Her Yaln&#x131;zl&#x131;k Gibi&apos;de yazd&#x131;m: Galatasaray Lisesi&apos;nin              b&#xfc;y&#xfc;k konferans salonunda toplan&#x131;lm&#x131;&#x15f;; N&#xe2;z&#x131;m Hikmet&apos;in     &#x15f;iirlerini      okuyan     bir&#xa;&#xf6;&#x11f;renciyi ihbar etti&#x11f;i i&#xe7;in bir ba&#x15f;ka &#xf6;&#x11f;renciye &#xf6;d&#xfc;l verilmi&#x15f;, art&#x131;k uydurmuyorsam, madalya gibi bir &#x15f;ey&#xa;&#xa;&#xa;tak&#x131;lm&#x131;&#x15f;t&#x131;...&#xa;Bu olay, sebebini bilmeksizin ve &#xe7;&#xf6;zemeksizin, bende tuhaf bir i&#x11f;renti uyand&#x131;rm&#x131;&#x15f;t&#x131;. N&#xe2;z&#x131;m Hikmet&apos;ten tek dize okumam&#x131;&#x15f;t&#x131;m. Bununla birlikte, &#xe7;ok gen&#xe7; ya&#x15f;taki bir insan&#x131;n &#x15f;iir okumak y&#xfc;z&#xfc;nden okuldan at&#x131;lmas&#x131;n&#x131; bir t&#xfc;rl&#xfc; anlaya- m&#x131;yordum. Kitaplar&#x131; yasaklanm&#x131;&#x15f;, art&#x131;k bas&#x131;lmayan Sabahattin Ali&apos;yi okumak da ayn&#x131; belalara yol a&#xe7;abilirdi elbette. Gelgeldim merak her zaman &#xf6;ne ge&#xe7;er.&#xa;Annemin ailesi Kad&#x131;k&#xf6;yl&#xfc;yd&#xfc;. Sabahattin Ali yazlar&#x131; Moda&apos;da bir yaz otelinde kal&#x131;rm&#x131;&#x15f;, e&#x15f;i ve k&#x131;z&#x131;yla birlikte. Annem, e&#x15f;inin &#xe7;ok g&#xfc;zel bir kad&#x131;n oldu&#x11f;unu hat&#x131;rl&#x131;yordu. Sabahattin Ali biraz ma&#x11f;rur, enikonu so&#x11f;uk tav&#x131;rl&#x131;ym&#x131;&#x15f;.&#xa;Annem ba&#x15f;ka &#x15f;eyler de hat&#x131;rl&#x131;yordu. Korka korka, hep de hayal meyal hat&#x131;rlanan bu &#x15f;eyler aras&#x131;nda, aylarca s&#xfc;rm&#xfc;&#x15f; duru&#x15f;malar, Ankara&apos;daki&#xa;&#xa;&#xa;gen&#xe7;lik g&#xf6;sterileri, ad&#x131; yine &#xfc;rk&#xfc;lerek s&#xf6;ylenen Ats&#x131;z diye bir ba&#x15f;ka yazar, Marko Pa&#x15f;a diye bir gazete, hik&#xe2;yesi me&#xe7;hul bir &#xf6;l&#xfc;m s&#xf6;zkonusuydu.&#xa;Bildiklerini, hat&#x131;rlad&#x131;klar&#x131;n&#x131; benimle payla&#x15f;an annem, hele ser&#xfc;venin sonunda &#xf6;l&#xfc;mle y&#xfc;z y&#xfc;ze gelindi&#x11f;inde, 1984&apos;&#xfc;n bir roman ki&#x15f;isi gibi kayg&#x131;larla donan&#x131;r, bunlar&#x131; unutmam&#x131; ister, bunlar&#x131; kimseye s&#xf6;ylememek gerekti&#x11f;ini defalarca tembih ederdi.&#xa;Tam bu lise y&#x131;llar&#x131;mda beklenmedik bir &#x15f;ey oldu, Varl&#x131;k Yay&#x131;nevi Sabahattin Ali&apos;yle Sait Faik&apos;in &#x201c;B&#xfc;t&#xfc;n Eserleri&#x201d;ni yay&#x131;mlamaya koyuldu.&#xa;&#x201c;B&#xfc;t&#xfc;n Eserleri&#x201d; ba&#x15f;l&#x131;&#x11f;&#x131; bile bizim ku&#x15f;ak i&#xe7;in... en az&#x131;ndan benim i&#xe7;in yepyeni bir adland&#x131;r&#x131;&#x15f;t&#x131;. Her nedense, Frans&#x131;z yazarlar&#x131;n&#x131;n &#xf6;ylesi bas&#x131;mlar&#x131; olabilece&#x11f;ini                  d&#xfc;&#x15f;&#xfc;nm&#xfc;&#x15f;&#xfc;m... Edebiyat&#x131;m&#x131;z&#x131;n iki usta yazar&#x131; da &#x15f;imdi &#x201c;B&#xfc;t&#xfc;n Eserleri&#x201d;yle okura sunuluyordu.&#xa;&#xa;&#xa;Art&#x131;k Atat&#xfc;rk Erkek Lisesi&apos;ndeydim. Ger&#xe7;ek bir edebiyatsever olan &#xf6;&#x11f;retmenimiz Bakiye Ramazano&#x11f;lu s&#x131;n&#x131;fta &#x201c;Mahalle Kahvesi&#x201d; hik&#xe2;yesini okudu. Birdenbire Sait Faik&apos;e vuruldum. &#x201c;Mahalle Kahvesi&#x201d; o g&#xfc;ne kadar okudu&#x11f;um hik&#xe2;yelerin &#xe7;ok d&#x131;&#x15f;&#x131;ndayd&#x131;.&#xa;Ger&#xe7;i yenilik&#xe7;i edebiyattan Oktay Akbal, Necati Cumal&#x131;, Sabahattin Kudret Aksal gibi de&#x11f;erli yazarlar&#x131;m&#x131;za yabanc&#x131; de&#x11f;ildim. Ama &#x201c;Mahalle Kahvesi&#x201d;nde tam da &#xf6;z&#xfc;ne varamad&#x131;&#x11f;&#x131;m derin &#xfc;rpertiler gezinip duruyor, g&#xfc;nler ge&#xe7;ti&#x11f;i halde hik&#xe2;yenin etkisinden &#xe7;&#x131;kam&#x131;yordum...&#xa;Bakiye Han&#x131;m, Sabahattin Ali&apos;yi de &#x201c;mutlaka&#x201d;                               okumam&#x131;z            gerekti&#x11f;ini s&#xf6;ylemi&#x15f;ti.&#xa;1960 sonras&#x131;n&#x131;n g&#xf6;rece &#xf6;zg&#xfc;rl&#xfc;k ortam&#x131;nda, yabana at&#x131;lamayacak cesaretle, Ya&#x15f;ar Nabi Nay&#x131;r, Varl&#x131;k Yay&#x131;nevi&apos;nde Sabahattin Ali&apos;yi yay&#x131;mlamay&#x131; g&#xf6;ze alm&#x131;&#x15f;t&#x131;. O g&#xfc;n&#xa;&#xa;&#xa;&#xfc;zerinde hi&#xe7; durmad&#x131;&#x11f;&#x131;m bu cesaret, &#x15f;imdi ge&#xe7;mi&#x15f;e d&#xf6;n&#xfc;p bak&#x131;nca &#x15f;a&#x15f;&#x131;rt&#x131;c&#x131; geliyor bana. &#xdc;stelik Ya&#x15f;ar Nabi&apos;nin ad&#x131;yla birlikte &apos;tutuculuk&apos;tan s&#xf6;z a&#xe7;may&#x131; ille gereksinen kimi ki&#x15f;ileri d&#xfc;&#x15f;&#xfc;nd&#xfc;k&#xe7;e, and&#x131;k&#xe7;a.&#xa;De&#x11f;irmen, Ka&#x11f;n&#x131;, Ses derken Sabahattin Ali&apos;nin b&#xfc;t&#xfc;n &#xf6;yk&#xfc;leri  beni dergilerde yay&#x131;mlanan ilk yaz&#x131;lar&#x131;mdan birine g&#xf6;t&#xfc;recekti. Bu yaz&#x131;n&#x131;n ad&#x131;n&#x131; bile hat&#x131;rlam&#x131;yorum bug&#xfc;n. Ne var ki, Yeni Dergi&#x2019;de yay&#x131;mland&#x131;&#x11f;&#x131;n&#x131;, nas&#x131;l gurur duydu- &#x11f;umu, ne sevin&#xe7;lerle donand&#x131;&#x11f;&#x131;m&#x131; asla unutmad&#x131;m.&#xa;Fakat hemen eklemem gerekiyor: Sabahattin Ali&apos;nin b&#xfc;t&#xfc;n &#xf6;yk&#xfc;lerini, &#xf6;yk&#xfc;sel masallar&#x131;n&#x131; okumam Varl&#x131;k Yay&#x131;nlarin&#x131;n bas&#x131;mlar&#x131; &#xf6;tesinde bir &#xe7;abayla olmu&#x15f;tu. 1960&apos;lar&#x131;n g&#xf6;rece &#xf6;zg&#xfc;rl&#xfc;&#x11f;&#xfc;nde S&#x131;r&#xe7;a K&#xf6;&#x15f;k orijinal haliyle yay&#x131;mlanama- m&#x131;&#x15f;, 1940&apos;lar&#x131;n bask&#x131;c&#x131; ortam&#x131;nda mahk&#xfb;m edili&#x15f;i g&#xf6;z&#xa;&#xf6;n&#xfc;nde   tutularak,   baz&#x131;   metinlerin&#xa;&#xa;&#xa;&#xe7;&#x131;kart&#x131;lmas&#x131; uygun bulunmu&#x15f;tu.&#xa;S&#x131;r&#xe7;a K&#xf6;&#x15f;k&apos;&#xfc;n asl&#x131;n&#x131; sahaftan edinmi&#x15f;tim, nice kayg&#x131;yla...&#xa;Ya romanc&#x131; Sabahattin Ali?!&#xa;Varl&#x131;k Yay&#x131;nlar&#x131; &#xf6;nce Kuyucakl&#x131; Yusuf u yay&#x131;mlam&#x131;&#x15f;t&#x131;. Sabahattin Ali&apos;nin &#xf6;yk&#xfc;lerindeki isyan &#xe7;&#x131;&#x11f;l&#x131;&#x11f;&#x131; bu romanda doru&#x11f;a &#xe7;&#x131;kar. Art arda okudu&#x11f;um &#x130;&#xe7;imizdeki &#x15e;eytan ve K&#xfc;rk Mantolu Madonna sadece &#xe7;&#x131;&#x11f;l&#x131;k a&#xe7;&#x131;s&#x131;ndan Kuyucakl&#x131; Yusuf&apos;la akrabad&#x131;rlar. Yoksa, bu son ikisi kentsel ortamda ge&#xe7;er ve Kuyucakl&#x131; Yusuf&apos;un Anadolu roman&#x131;na denk ortam&#x131;ndan &#xe7;ok ayr&#x131;d&#x131;rlar.&#xa;Tahir                Alangu                hocam&#x131;z&#x131;n Cumhuriyetten Sonra Hik&#xe2;ye ve Roman&#x2019;da Sabahattin Ali&apos;ye y&#xf6;nelik ilgin&#xe7; ele&#x15f;tirileri var. Yazar&#x131;n siyasal m&#xfc;cadelesini                pek               olumlu kar&#x15f;&#x131;lamayan Alangu, m&#xfc;cadelenin&#xa;yaz&#x131;nsal &#xe7;abay&#x131;, &#xf6;zellikle son d&#xf6;nemlerde, geri plana itti&#x11f;ini belirtiyor.&#xa;&#xa;&#xa;Ben b&#xf6;yle d&#xfc;&#x15f;&#xfc;nm&#xfc;yorum.&#xa;O zamanlar, yeniyetmelik y&#x131;llar&#x131;mda, Sabahattin Ali etraf&#x131;ndaki karanl&#x131;k s&#xf6;ylem, yaln&#x131;zca etliye s&#xfc;tl&#xfc;ye kar&#x131;&#x15f;mayanlarca dile gelmezdi. Bir yandan da, Sabahattin Ali&apos;yle be&#x15f; a&#x15f;a&#x11f;&#x131; be&#x15f; yukar&#x131; ayn&#x131; d&#xfc;nya g&#xf6;r&#xfc;&#x15f;&#xfc;n&#xfc; payla&#x15f;m&#x131;&#x15f;, bu u&#x11f;urda hayatlar&#x131;n&#x131; harcamay&#x131; g&#xf6;ze alm&#x131;&#x15f; ki&#x15f;iler de yazar&#x131;n eseri, hatta ya&#x15f;ant&#x131;s&#x131; konusunda ikircikli davran&#x131;rlard&#x131;.&#xa;&#x15e;imdi burada s&#xf6;z konusu &#xfc;nl&#xfc; ki&#x15f;ilerin adlar&#x131;n&#x131; anmak istemiyorum. Ge&#xe7;en zaman pek &#xe7;ok ac&#x131;y&#x131; T&#xfc;rkiye&apos;de daha da biledi&#x11f;inden, kayg&#x131;lar, tasalar, kuruntular da birer ac&#x131; olup &#xe7;&#x131;kabiliyor. O ki&#x15f;ilerin ac&#x131;lar&#x131;n&#x131; art&#x131;k kavrayabiliyorum.&#xa;Ama o g&#xfc;nlerde &#x15f;a&#x15f;&#x131;r&#x131;rd&#x131;m. 1960&apos;lar&#x131;n sonuna do&#x11f;ru Papir&#xfc;s dergisinde ya- y&#x131;mlanm&#x131;&#x15f; bir yaz&#x131; vard&#x131; ki, beni neredeyse deh&#x15f;et i&#xe7;inde b&#x131;rakm&#x131;&#x15f;t&#x131;. Bu yaz&#x131;da, Sabahattin Ali&apos;nin ger&#xe7;ek ya&#x15f;am&#xf6;yk&#xfc;s&#xfc;n&#xfc;n kolay kolay&#xa;&#xa;&#xa;yaz&#x131;lamayaca&#x11f;&#x131; ileri s&#xfc;r&#xfc;l&#xfc;yor; bulan&#x131;k bir ifadeyle, Sabahattin Ali&apos;deki gelgitli yarad&#x131;l&#x131;&#x15f;&#x131;n daima ikili ve ikici bir ak&#x131;&#x15f; g&#xf6;sterdi&#x11f;i &#xf6;ne s&#xfc;r&#xfc;l&#xfc;yordu.&#xa;Trajik son, gelgitli yarad&#x131;l&#x131;&#x15f;, d&#xfc;&#x15f;&#xfc;nce ve davran&#x131;&#x15f;lardaki f&#x131;rt&#x131;na... Hepsi de Sabahattin Ali&apos;nin eserinde olanca ac&#x131;s&#x131;yla   duyumsan&#x131;r.                         Bir&#xe7;ok &#xf6;yk&#xfc;s&#xfc;ndeki trajik sonlar, g&#xfc;n&#xfc;n birinde kendi sonu olup &#xe7;&#x131;km&#x131;&#x15f;t&#x131;r.&#xa;Gelgelelim d&#xf6;nemin herkesi birbirine k&#x131;rd&#x131;rma  politikas&#x131;ndan  Sabahattin Ali de nasibini al&#x131;yor; trajik sonu birtak&#x131;m                          s&#xf6;ylentilerle                            adeta hafifletiliyordu. Son kez yineliyorum: Bu tutuma &#xe7;ok tan&#x131;kl&#x131;k ettim...&#xa;&#x15e;imdi romanlara d&#xf6;n&#xfc;yorum.&#xa;Sabahattin Ali bence b&#xfc;y&#xfc;k bir romanc&#x131;d&#x131;r, t&#x131;pk&#x131; b&#xfc;y&#xfc;k bir hikayeci oldu&#x11f;u gibi.&#xa;Kuyucakl&#x131; Yusufun ola&#x11f;an&#xfc;st&#xfc; buldu&#x11f;um Anadolu sahnelerinde hocam&#x131;z Alangu, &#x201c;maceral&#x131;, &#x15f;iirli bir&#xa;&#xa;&#xa;a&#x15f;k hik&#xe2;yesine&#x201d; ge&#xe7;i&#x15f;  i&#xe7;in  dekor &#xe7;abas&#x131; bulur. Kuyucakl&#x131; Yusuf u, &#x130;&#xe7;imizdeki &#x15e;eytan ve K&#xfc;rk Mantolu Madonna&#x2019;dan daha &#x201c;ger&#xe7;ek&#xe7;i&#x201d; saymakla   birlikte,                                 eserde romantizmin ve &#x201c;halk romanlar&#x131;&#x201d;n&#x131;n izlerini yakalar.&#xa;Alangu adeta iz s&#xfc;r&#xfc;yor:&#xa;&#x201c;Yusufun                                Edremit&apos;teki arkada&#x15f;lar&#x131;ndan bahsederken se&#xe7;ti&#x11f;i ki&#x15f;ilerin b&#xfc;t&#xfc;n canl&#x131; &#xf6;zellikleriyle verili&#x15f;i, esere ger&#xe7;ek&#xe7;i bir renk verdi&#x11f;i halde, maceral&#x131;, &#x15f;iirli bir a&#x15f;k&#xa;hik&#xe2;yesine ge&#xe7;ilirken Re&#x15f;at Nuri ve Ethem &#x130;zzet&apos;in &#xc7;al&#x131;ku&#x15f;u (1922) ve Yak&#x131;lacak Kitap (1927) gibi eserlerinde en tipik &#xf6;rneklerini bulan halk romanlar&#x131;n&#x131;n             tesirleri            a&#xe7;&#x131;k&#xe7;a g&#xf6;r&#xfc;lmektedir.&#x201d;&#xa;Uzunca bir d&#xf6;nem, T&#xfc;rk edebiyat&#x131;, a&#x15f;ktan s&#xf6;z a&#xe7;an eserlere mesafeli bakmay&#x131; tercih etmi&#x15f;tir. Kuyucakl&#x131; Yusuf da nasibini al&#x131;yor. Oysa Kuyucakl&#x131; Yusuf, t&#x131;pk&#x131; &#x130;&#xe7;imizdeki&#xa;&#xa;&#xa;&#x15e;eytan ve K&#xfc;rk Mantolu Madonna gibi, edebiyat&#x131;m&#x131;zda                                         &#xf6;rne&#x11f;ine            az rastlan&#x131;lan bir romand&#x131;r. Burada ger&#xe7;ek&#xe7;ilik, bence, yazar&#x131;n kaleme getirdi&#x11f;i i&#xe7; d&#xfc;nya g&#xf6;zlemlerinde aranmal&#x131;d&#x131;r...&#xa;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="C:\Users\Excalibur\OneDrive\Masa&#xfc;st&#xfc;\logo1.jpg"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Geri"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,-114,0,0,2,70"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="0"/>
+    <SyntheticProperty name="generateSize" type="boolean" value="true"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="418" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jButton2" min="-2" pref="106" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="465" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="39" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="                                                                                              YABAN&#xa;Kap&#x131;dan yorgun arg&#x131;n girdi&#x11f;imde evdeki u&#x11f;ultulu g&#xfc;r&#xfc;lt&#xfc; yorgunlu&#x11f;un verdi&#x11f;i ba&#x15f; a&#x11f;r&#x131;s&#x131; sebebiyle y&#xfc;z&#xfc;me buru&#x15f;turmama sebep olsa da keyiflenmi&#x15f;tim. Son g&#xfc;nlerdeki yo&#x11f;unlu&#x11f;um sebebiyle unutmu&#x15f;tum belki ama annemin bug&#xfc;n g&#xfc;n&#xfc; vard&#x131;. Ve ben, g&#xfc;nleri severdim. Bazen y&#x131;prat&#x131;c&#x131; ve &#xe7;al&#x131;&#x15f;mad&#x131;&#x11f;&#x131;m yerden gelen sorular olmasa belki daha &#xe7;ok severdim. Ama bu haliyle de idare ediyordum.&#xa;Portmantoya mor s&#x131;rt &#xe7;antam&#x131; b&#x131;rak&#x131;p etraf&#x131; kola&#xe7;an ederek kimseye g&#xf6;r&#xfc;nmeden parmak u&#xe7;lar&#x131;mda &#xfc;st kata &#xe7;&#x131;kt&#x131;m. &#xdc;zerimi de&#x11f;i&#x15f;meden, rahat bir &#x15f;eyler giymeden, en &#xf6;nemlisi de y&#xfc;z&#xfc;m&#xfc; g&#xf6;z&#xfc;m&#xfc; y&#x131;kay&#x131;p rahatlamadan insan i&#xe7;ine &#xe7;&#x131;kmay&#x131; sevmezdim. H&#x131;zla soyunup d&#xf6;k&#xfc;nd&#xfc;m, elimi y&#xfc;z&#xfc;m&#xfc; y&#x131;kay&#x131;p, &#xfc;zerime de krem rengi e&#x15f;ofman tak&#x131;m&#x131;n&#x131; giydim.Uzun, dalgal&#x131; sa&#xe7;lar&#x131;m&#x131; h&#x131;zla elime dolay&#x131;p gev&#x15f;ek bir topuz yapt&#x131;m ve evet art&#x131;k mahalle dedikodular&#x131;n&#x131; dinlemek i&#xe7;in haz&#x131;rd&#x131;m.&#xa;Merdivenleri inerken Suna teyzenin k&#x131;z&#x131; Sude ile burun buruna geldim. Elindeki tepsideki bo&#x15f; &#xe7;ay bardaklar&#x131;na bak&#x131;l&#x131;rsa benim yoklu&#x11f;umda mesaiyi o devralm&#x131;&#x15f;t&#x131;. &#x201c;Sevda abla nihayet geldin. Valla perperi&#x15f;an oldum. &#x130;&#xe7;eriye &#xe7;ay yeti&#x15f;miyor.Hele bir el at. K&#xfc;lkedisi&#x2019;ne d&#xf6;nd&#xfc;m.&#x201d;&#xa;Y&#xfc;z&#xfc;mdeki g&#xfc;l&#xfc;mseme geni&#x15f;lerken &#x201c;&#xdc;vey annen ve k&#x131;zkarde&#x15f;lerinin say&#x131;s&#x131; da epeyce galiba.&#x201d; Dedim burnumun ucuyla tepsideki kalabal&#x131;k &#xe7;ay bardaklar&#x131;n&#x131; g&#xf6;sterirken.&#xa;&#x201c;Hem de nas&#x131;l abla, hem de nas&#x131;l!&#x201d; derken s&#x131;k&#x131;nt&#x131;yla oflay&#x131;p h&#x131;zla mutfa&#x11f;a ilerledi.&#xa;Sude, lise son s&#x131;n&#x131;fta &#xfc;niversite s&#x131;nav&#x131;na haz&#x131;rlanan b&#x131;c&#x131;r b&#x131;c&#x131;r bir k&#x131;zd&#x131;.Annesinden pek ho&#x15f;lanmasam da Sude&#x2019;nin herhangi bir sayg&#x131;s&#x131;zl&#x131;&#x11f;&#x131;na rastlamam&#x131;&#x15f;t&#x131;m.&#xa;&#xc7;aylar&#x131; doldurup ayak&#xfc;st&#xfc; k&#x131;saca okulundan, haz&#x131;rland&#x131;&#x11f;&#x131; s&#x131;navdan bahsedip u&#x11f;ultunun yakla&#x15f;t&#x131;k&#xe7;a artt&#x131;&#x11f;&#x131; salona ilerledik. Yakla&#x15f;&#x131;k on iki, on &#xfc;&#xe7; kad&#x131;n herbiri bir k&#xf6;&#x15f;ede ellerinde tepeleme dolu tabaklarla a&#x11f;&#x131;z a&#x11f;&#x131;za vermi&#x15f;, sohbet ediyorlard&#x131;. Birbirlerini duymakta zorland&#x131;k&#xe7;a da herkes yan&#x131;ndakine daha y&#xfc;kzek sesle bir &#x15f;eyler anlat&#x131;yordu.&#xa;Sude, bir sonraki &#xe7;ay tepsisini bana devredece&#x11f;ini s&#xf6;yleyip bu seferkini vermedi&#x11f;inden elindeki dolu &#xe7;ay tepsisiyle &#xf6;nden, ben de hemen arkas&#x131;ndan i&#xe7;eriye girince sesler birden b&#x131;&#xe7;ak gibi kesildi.&#xa;&#x201c;K&#x131;z&#x131;m&#x2026;&#x201d; dedi annem normalden daha &#x15f;efkatli bir vurguyla beni de &#x15f;a&#x15f;&#x131;rtarak&#x201d; &#x2026;Ne zaman geldin? Zili duymad&#x131;k.&#x201d;&#xa;Bu g&#xfc;r&#xfc;lt&#xfc;de kendi sesinizi duyam&#x131;yorsunuz, beni nas&#x131;l duyacaks&#x131;n&#x131;z? Duymazs&#x131;n&#x131;z takii anne. M&#xfc;barek, sanki Osmanl&#x131; yeni&#xe7;eri ordusuyla sefere &#xe7;&#x131;k&#x131;yor.&#xa;&#x201c;Anahtarla girdim.&#x201d;&#xa;Oysa zile &#xfc;&#xe7; kere basm&#x131;&#x15f;t&#x131;m ama ses gelmeyince yorgunlu&#x11f;un verdi&#x11f;i sab&#x131;rs&#x131;zl&#x131;kla oflayarak s&#x131;rt &#xe7;antam&#x131;n i&#xe7;erisinde birka&#xe7; dakikada anahtar aram&#x131;&#x15f;t&#x131;m.H&#x131;zla herkese&#xa;&#x201c;Ho&#x15f; geldiniz&#x201d; dedim annemin s&#xfc;rekli tembihledi&#x11f;i gibi g&#xfc;l&#xfc;mseyerek. M&#x131;r&#x131;l m&#x131;r&#x131;l kar&#x15f;&#x131;l&#x131;klar geldi. Hen&#xfc;z, kenardaki sandalyeye kendimi dar atm&#x131;&#x15f;t&#x131;m ki annemin &#xf6;nce koyu g&#xf6;zlerindeki imlalarla ard&#x131;ndan da sesiyle m&#xfc;&#x15f;erref olmu&#x15f;tum.&#xa;&#x201c;Kendine de tabak alsayd&#x131;n. Bak Neriman teyzenin de bitmi&#x15f; taba&#x11f;&#x131;.&#x201d;&#xa;Bir yandan ka&#x15f; g&#xf6;z yaparken bir yandan da normalden daha tatl&#x131; bir dille beni uyar&#x131;yordu. O ka&#x15f;&#x131;n g&#xf6;z&#xfc;n alfabesini t&#xfc;m &#xe7;ocuklar bilirdi. Bir de terlik dili vard&#x131; tabii. Ama o sonraki dersimizin konusu.&#xa;&#x201c;Ay yokkk Asuman, bir lokma yiyecek yerim kalmad&#x131;. Eline sa&#xfc;l&#x131;k.&#x201d;&#xa;Benim de elime sa&#xfc;l&#x131;k be Neriman teyze. O incecik ser&#xe7;e parmak boyutundaki sarmalar&#x131; kim sard&#x131; san&#x131;yorsun?&#xa;&#x201c;Afiyet oolsun afiyet olsun da ne yedin ki ayol!&#x201d; dedi annem memnuniyetsizce.&#xa;&#x201c;Yedik yedik.&#x201d;&#xa;&#x201c;Mektepten mi &#xe7;ocu&#x11f;um?&#x201d;&#xa;Grubun en ya&#x15f;l&#x131; &#xfc;yesi, yetmi&#x15f;lerindeki Suzan nineydi bunu soran. Titrek sesiyle, burnuna indirdi&#x11f;i g&#xf6;zl&#xfc;klerinin &#xfc;st&#xfc;nden bakarak cin gibi bak&#x131;&#x15f;larla beni inceliyordu.&#xa;&#x201c;Evet, kektepten geliyorum Suzi&#x2019;m.&#x201d; Diye cevaplad&#x131;m muzip muzip. Suzan nine, ya&#x15f;&#x131;na ra&#x11f;men &#xe7;evik ve olduk&#xe7;a dikkatliydi. Radar Suzan da diyorduk biz k&#x131;zlarla aram&#x131;zda. &#xc7;&#xfc;nk&#xfc; mahallede ne var ne yok, her &#x15f;eyden haberi olurdu ama dedikoducu de&#x11f;ildi. A&#xe7;&#x131;k aramaz, insan&#x131; m&#xfc;&#x15f;k&#xfc;lde b&#x131;rakmazd&#x131;. Mahallenin kara kutusuydu Suzan&#x2019;&#x131;m&#x2026;&#xa;&#x201c;Aferin sana.&#x201d; Dedi takdirle Suzan nine.&#xa;&#x201c;Ma&#x15f;allah Asuman, senin k&#x131;z art&#x131;k g&#xf6;z dolduruyor. Yak&#x131;nda ka&#x11f;&#x131;n&#x131; a&#x15f;&#x131;nd&#x131;rmaya ba&#x15f;larlar.&#x201d;&#xa;&#x130;&#x15f;te d&#xf6;nm&#xfc;&#x15f; dola&#x15f;m&#x131;&#x15f;, g&#xfc;n ortamlar&#x131;n&#x131;n en g&#xfc;ncel konusuna gelmi&#x15f;tik yine.&#xa;&#x201c;Yok yok K&#x131;ymet abla. Daha Teoman var &#xf6;n&#xfc;nde. Bunun daha okulu var. Sonras&#x131; nasip k&#x131;smet tabii.&#x201d;&#xa;Huu, ben buraday&#x131;m.&#xa;&#x201c;Ben evlenmeyece&#x11f;im zaten. Kariyerimde y&#xfc;kselece&#x11f;im.&#x201d; Dedim a&#x11f;z&#x131;ma bir b&#xf6;rek t&#x131;karken. Annem, ba&#x15f;&#x131;n&#x131; sallay&#x131;p &#x201c; O kadar da uzun boylu de&#x11f;il. Kariyerinde y&#xfc;kselip ne olacan? Picasso mu?&#x201d;&#xa;Sen Picasso&#x2019;yu nereden biliyorsun anne?&#xa;&#x201c;Belki olurum. Niye olmas&#x131;n?&#x201d; dedim.&#xa;Resim B&#xf6;l&#xfc;m&#xfc;nde okudu&#x11f;um i&#xe7;in niye beni k&#xfc;&#xe7;&#xfc;ms&#xfc;yorsun anneci&#x11f;im? Ne demi&#x15f;ler bilirsiniz? Dostunu iyi se&#xe7;, d&#xfc;&#x15f;man&#x131;n&#x131; annen bile do&#x11f;urur ama benimki direkt anne olarak do&#x11f;mu&#x15f;.&#x201d;&#xa;&#x201c; Sen bir okkulunu hay&#x131;rl&#x131;s&#x131;yla bitir de. Bir de Hatice teyzene &#xe7;ay koy, bak bitmi&#x15f;.&#x201d;&#xa;Ben, burnumu dikip kalkt&#x131;m ve Hatice teyzeye bir bardak &#xe7;ay al&#x131;p geldim i&#xe7;erden.&#xa;&#x201c;Bu i&#x15f;ler nasip Asuman&#x2026;&#x201d; diye &#x131;srarla devam ettik K&#x131;ymet teyze&#x201d; &#x2026;.s&#x131;rayla olmuyor biliyorsun.&#x201d;&#xa;&#x201c;&#xd6;yle &#xf6;yle tabii.&#x201d; Diye onaylasa da annem, y&#xfc;z&#xfc;n&#xfc; bir par&#xe7;a ek&#x15f;itmekten de geri durmam&#x131;&#x15f;t&#x131;.&#xa;Kendisinin k&#xfc;&#xe7;&#xfc;k k&#x131;z&#x131;, iki ablas&#x131;ndan &#xf6;nce evlenip barklanm&#x131;&#x15f;t&#x131;. S&#x131;as&#x131;yla olmuyor derken buna alttan alta vurgu yap&#x131;yordu.&#xa;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="C:\Users\Excalibur\OneDrive\Masa&#xfc;st&#xfc;\logo1.jpg"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Geri"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

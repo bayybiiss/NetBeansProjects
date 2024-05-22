@@ -1,0 +1,44 @@
+import java.util.Random;
+import java.util.Scanner;
+public class Main {
+public static void main(String[] args) {
+Scanner klavye = new Scanner(System.in);
+String kelimeler = null, hata = null;
+String[] bos = {" - ", " - ", " - ", " - "};
+int say = 0;
+String[] kelime = {"bilgisayar", "programlama", "nesne", "esma", "yazılım", "mühendislik", "kedi", "ay", "bal", "kitap"};
+int d = 0;
+Random t = new Random();
+kelimeler = kelime[t.nextInt(10)];
+for (int i = 0; i < bos.length; i++) {
+System.out.print(bos[i]); }
+System.out.println("");
+for (int i = 0; i < 15; i++) {
+if (say == kelimeler.length()) {
+System.out.println("Tebrikler Kazandınız Kelime = " + kelimeler); break;
+} else {
+System.out.println( " tahmininizi giriniz");
+String a = klavye.next();
+a.toLowerCase();
+for (int j = 0; j < 4; j++) {
+if (a.charAt(0) == kelimeler.charAt(j)) {
+System.out.println("girilen harf kelimede mevcuttur " + a.charAt(0));
+bos[j] = a;
+d = 1;
+say++;
+}
+}
+if (d == 0) {
+hata += a;
+System.out.println("kelimede böyle bir harf mevcut degildir" + hata);
+} d = 0;
+for (int k = 0; k < bos.length; k++) {
+System.out.print(bos[k]); }
+System.out.println("");
+} }
+if (say != kelimeler.length()) {
+System.out.println("KAZANAMADINIZ. Kelime = " + kelimeler + " di.");
+
+}
+}
+}

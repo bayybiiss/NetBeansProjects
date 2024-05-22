@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,109,0,0,2,68"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="0"/>
+    <SyntheticProperty name="generateSize" type="boolean" value="true"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+              <Component id="jScrollPane1" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="440" max="-2" attributes="0"/>
+              <Component id="jButton2" min="-2" pref="105" max="-2" attributes="0"/>
+              <EmptySpace pref="17" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="85" max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="417" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="29" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="                                                               Anka: ARSLAN&#xa;Gecenin karanl&#x131;&#x11f;&#x131; t&#xfc;m g&#xf6;ky&#xfc;z&#xfc;n&#xfc; kaplam&#x131;&#x15f;. Sanki karartt&#x131;&#x11f;&#x131; g&#xf6;&#x11f;&#xfc; ayd&#x131;nlatmas&#x131;n diye bulutlar&#x131;n ard&#x131;na hapsediyor. Ay&apos;&#x131;. Bir o kadar da karartt&#x131;&#x11f;&#x131; havadan su&#xe7;luluk duyuyor sanki. &#xa;Iss&#x131;z bir ada gibi t&#xfc;m &#x15f;ehir karanl&#x131;k, sessiz ve yaln&#x131;z. Bu manzara &#xe7;okta uzak de&#x11f;il asl&#x131;nda, haf&#x131;zamda bir yerde ayn&#x131; karanl&#x131;k. Ben kimim, neden hat&#x131;rlam&#x131;yorum? Bu soruyu yan&#x131;tlayacak G&#xfc;ne&#x15f;&apos;e mi d&#xfc;&#x15f;man&#x131;m yoksa zihnim gibi g&#xf6;&#x11f;&#xfc;de karartan Gece&apos;ye mi? Tek hat&#x131;rlad&#x131;&#x11f;&#x131;m o g&#xfc;n... Ben kimim, neden hat&#x131;rlam&#x131;yorum? Bu soruyu yan&#x131;tlayacak G&#xfc;ne&#x15f;&apos;e mi d&#xfc;&#x15f;man&#x131;m yoksa zihnim gibi g&#xf6;&#x11f;&#xfc;de karartan Gece&apos;ye mi? Tek hat&#x131;rlad&#x131;&#x11f;&#x131;m o g&#xfc;n... Ad&#x131;m bile silik haf&#x131;zamda. B&#xfc;t&#xfc;n duygular yabanc&#x131;, i&#xe7;imi s&#x131;cac&#x131;k yapan o &#xe7;ocuk hari&#xe7;. Peki o &#xe7;ocuk kim, beni tan&#x131;yor mu, nas&#x131;l bir ili&#x15f;ki var aram&#x131;zda, ad&#x131; ne? T&#xfc;m bu sorular&#x131; bana sorduran ne?!!!&#xa;O kadar &#xe7;ok istiyorum ki sorular&#x131;ma cevap bulay&#x131;m, zihnimdeki bulutlar kalks&#x131;n, Ay gecemi ayd&#x131;nlats&#x131;n...&#xa;Sadece tm bu bilinmezliklerin ba&#x15f;lad&#x131;&#x11f;&#x131;, benli&#x11f;imi, an&#x131;lar&#x131;m&#x131; kaybetti&#x11f;im, benden al&#x131;nanlar&#x131; almaya yemin etti&#x11f;im o g&#xfc;n&#xfc; hat&#x131;rl&#x131;yorum, o anki duygular&#x131;m&#x131; hat&#x131;rl&#x131;yorum; siyah kap&#x15f;onlu bir adam bana do&#x11f;ru gelen ad&#x131;mlar, korkun&#xe7; siyah g&#xf6;zler, &#xe7;&#x131;&#x11f;l&#x131;klar ve patlama sesi...&#xa;O adam kimdi, niye benim evimin &#xf6;n&#xfc;ndeydi? Neden i&#xe7;ime b&#xfc;y&#xfc;k bir korku girdi o adam&#x131; g&#xf6;r&#xfc;nce? Neden i&#xe7;ime b&#xfc;y&#xfc;k bir korku girdi o adam&#x131; g&#xf6;r&#xfc;nce? Neden s&#x131;r&#x131;ls&#x131;klam uyand&#x131;m, neden ad&#x131;m&#x131; hat&#x131;rlamad&#x131;m, nas&#x131;l evimin &#xf6;n&#xfc;nden uyand&#x131;&#x11f;&#x131;m yere geldim...&#xa;Her &#x15f;ey o g&#xfc;n y&#x131;k&#x131;ld&#x131; ba&#x15f;&#x131;ma daha do&#x11f;rusu y&#x131;k&#x131;lmaya ba&#x15f;lad&#x131;. 2 y&#x131;l &#xf6;nce, 8 Eyl&#xfc;l 2019...&#xa;Sonbahar ba&#x15f;lang&#x131;c&#x131;yd&#x131; en &#xf6;nemlisi ise 16.ya&#x15f; g&#xfc;n&#xfc;md&#xfc;. Evim ormanda bir patikan&#x131;n sonundayd&#x131;. Evet, ormanda ya&#x15f;&#x131;yordum ama &#xf6;yle &#xfc;rk&#xfc;n&#xe7;, karanl&#x131;k, kayalarla dolu bir orman de&#x11f;ildi. Orman da&#x11f;lar&#x131;n aras&#x131;ndayd&#x131;, &#x15f;&#x131;r&#x131;l &#x15f;&#x131;r&#x131;l akan b&#xfc;y&#xfc;k&#xe7;e bir nehir vard&#x131;, nehir &#x15f;elale ile suyunu berrak b&#xfc;y&#xfc;k bir g&#xf6;le ta&#x15f;&#x131;yordu. G&#xf6;l&#xfc;n &#xe7;ok g&#xfc;zeldi, ho&#x15f; bir havas&#x131; vard&#x131;. Sanki insan&#x131;n ruhunu temizliyordu. &#x15e;afakta pembe-k&#x131;z&#x131;l oluyordu, romantik bir hava kat&#x131;yordu orman&#x131;n &#x131;ss&#x131;zl&#x131;&#x11f;&#x131;na. Lakin bu kadar g&#xfc;zel bir g&#xf6;l&#xfc;n etraf&#x131;nda ne bir otel ne bir pansiyon ne bir restorant ne de bir ev vard&#x131;. Ya sadece bana g&#xfc;zel geliyordu ya hen&#xfc;z kimse bu do&#x11f;a harikas&#x131;n&#x131; ke&#x15f;fetmemi&#x15f;ti ya da ba&#x15f;ka bir tuhafl&#x131;k vard&#x131;. H&#x131;zl&#x131;ca, bunlar&#x131; d&#xfc;&#x15f;&#xfc;nmeyi b&#x131;rak&#x131;p eve do&#x11f;ru yol ald&#x131;m.&#xa;Eviin &#xf6;n&#xfc;ne geldi&#x11f;imde siyah giyinmi&#x15f;, ceketin kap&#x15f;onu i&#x15f;e y&#xfc;z&#xfc;n&#xfc; &#xf6;rten bir adam vard&#x131;. Y&#xfc;z&#xfc; g&#xf6;z&#xfc;km&#xfc;yordu ama etrafa bak&#x131;n&#x131;yor gibiydi. Evet, an&#x131;lar&#x131;m&#x131; bir dedektif gibi incelemek, olaya tan&#x131;k olmu&#x15f; yabanc&#x131; biri gibi incelemek i&#x15f;e yar&#x131;yordu sanki. &#x130;&#xe7;eride tuhaf bir &#x15f;eyler oluyordu. Evde bir &#x15f;eyler k&#x131;r&#x131;l&#x131;yordu, cam sesleri geliyordu. Sonra bir patlama sesi...&#xa;O ses bir silaha m&#x131; aitti yoksa ba&#x15f;ka bir &#x15f;eyin sesi miydi emin de&#x11f;ilim.&#xa;B&#xfc;t&#xfc;n bedenimi &#xf6;l&#xfc;mc&#xfc;l, yiyip bitiren cinsten bir korku sard&#x131;. Bu korkuyla sava&#x15f;&#x131;rcas&#x131;na eve y&#xf6;nelim. Korktum... Birinden ya da zararr g&#xf6;rmekten de&#x11f;il, i&#xe7;eride olan annemin zarar g&#xf6;rm&#xfc;&#x15f; olaca&#x11f;&#x131;ndan korkmu&#x15f;tum.&#xa;Sonra siyah kap&#x15f;onlu adam&#x131;n &#xfc;rk&#xfc;n&#xe7; simsiyah g&#xf6;zlerini g&#xf6;rd&#xfc;m. &#xd6;l&#xfc;m vard&#x131; g&#xf6;zlerinde bana do&#x11f;ru gelen ayak sesleri &#xe7;&#x131;&#x11f;l&#x131;k...&#xa;Heryer tekrar zifiri karanl&#x131;k...&#xa;Sonra bay&#x131;ld&#x131;m  ya da uyudum emin de&#x11f;ilim ama uyand&#x131;&#x11f;&#x131;mda o dudak u&#xe7;uklatan g&#xfc;zellikletiki g&#xf6;l&#xfc;nkenar&#x131;ndayd&#x131;m. Kolum g&#xf6;le sarkm&#x131;&#x15f;, suyun i&#xe7;ine girmi&#x15f;ti, &#xfc;st&#xfc;m s&#x131;r&#x131;ls&#x131;klamd&#x131;. Ya&#x11f;mur ya&#x11f;d&#x131;&#x11f;&#x131; i&#xe7;in mi yoksa ger&#xe7;ekten bo&#x11f;ulmu&#x15f; muydum? Uyand&#x131;&#x11f;&#x131;mda sanki kalbim durmu&#x15f; ve yeniden atmaya a&#x15f;lam&#x131;&#x15f; gibi nefes nefeseydim. En &#xf6;nemlisi ise zihnim...&#xa;Zihnim bombo&#x15f;tu.&#xa;Uyand&#x131;ktan sonra bir s&#xfc;re etrafa bakt&#x131;m. Caddeyi g&#xf6;rd&#xfc;m, bir kka&#xe7; araba ge&#xe7;iyordu, oraya do&#x11f;ru y&#xfc;r&#xfc;d&#xfc;m. Bir araba durdu, i&#xe7;inden bir kad&#x131;n indi. Bana do&#x11f;ru tela&#x15f;la ko&#x15f;tu, s&#x131;ms&#x131;k&#x131; sar&#x131;ld&#x131;. Bana sar&#x131;lan kad&#x131;n a&#x11f;layarak &quot;Mira, iyi misin? Ne oldu sana? Annen nerede g&#xfc;zel k&#x131;z&#x131;m?&quot; diyordu. Mira&apos;n&#x131;n benim ad&#x131;m oldu&#x11f;unu anlam&#x131;&#x15f;t&#x131;m ama sorular&#x131;n cevab&#x131;n&#x131; bene bilmiyordum. Kad&#x131;n&#x131; tan&#x131;mam&#x131;&#x15f;t&#x131;m. Kim oldu&#x11f;unu ve beni nereden tand&#x131;&#x11f;&#x131;n&#x131; sordu&#x11f;umda benim matematik &#xf6;&#x11f;retmenim oldu&#x11f;unu s&#xf6;yledi. Beni evime g&#xf6;t&#xfc;rd&#xfc;. Kap&#x131;dan girer girmez ikimizde g&#xf6;rd&#xfc;&#x11f;&#xfc;m&#xfc;z manzara kar&#x15f;&#x131;s&#x131;nda  g&#xf6;z&#xfc;m&#xfc;z&#xfc; bile k&#x131;rpmam&#x131;&#x15f;t&#x131;k.&#xa;Nefesim  kesildi, ruhum bedenimden ayr&#x131;lmak i&#xe7;in &#xe7;&#x131;&#x11f;l&#x131;k at&#x131;yordu, bedenime a&#x11f;&#x131;r gelmi&#x15f;ti. Sanki zaman donmu&#x15f;tu ve ben o karanl&#x131;kta yaln&#x131;zd&#x131;m. Sanki her &#x15f;ey bitmi&#x15f;ti, art&#x131;k benim i&#xe7;in sondu. Neden mi? &#xc7;&#xfc;nk&#xfc;...&#xa;&#xa;&#xa;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="C:\Users\Excalibur\OneDrive\Masa&#xfc;st&#xfc;\logo1.jpg"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="0" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Geri"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

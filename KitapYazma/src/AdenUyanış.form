@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,103,0,0,2,-109"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="0"/>
+    <SyntheticProperty name="generateSize" type="boolean" value="true"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="jButton1" min="-2" pref="82" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="jScrollPane1" min="-2" pref="508" max="-2" attributes="0"/>
+                      <EmptySpace pref="8" max="32767" attributes="0"/>
+                      <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                      <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="447" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="457" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <Properties>
+        <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[3276, 3276]"/>
+        </Property>
+      </Properties>
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="ADEN UYANI&#x15e; &#xa;&#xa;Uyanal&#x131; ne kadar oldu bilmiyorum ama saatlerdir kar&#x15f;&#x131;mdaki duvar&#x131; izliyorum, yataktan &#xe7;&#x131;kmak, kahvalt&#x131; yapmak ve bilmedi&#x11f;im bu yerdeki tan&#x131;mad&#x131;&#x11f;&#x131;m insanlar&#x131;n aras&#x131;nda okula gitmek istemiyorum. &#xa;&#xa;Fakat birazdan zorla yataktan &#xe7;&#x131;kar&#x131;laca&#x11f;&#x131;m&#x131; ve hi&#xe7; istemedi&#x11f;im o halde o okula zorla g&#xf6;nderilece&#x11f;imi biliyorum. Hatta annem taraf&#x131;ndan bizzat okula g&#xf6;t&#xfc;r&#xfc;lece&#x11f;imi ve b&#xfc;t&#xfc;n g&#xfc;n g&#xf6;zlerinin benim &#xfc;zerimde olaca&#x11f;&#x131;n&#x131; da biliyorum, &#xe7;&#xfc;nk&#xfc; anneniz ayn&#x131; zamanda edebiyat &#xf6;&#xfc;retmeninizse size pekte bir se&#xe7;enek kalm&#x131;yor. &#xa;&#xa;Oysa sadece 15 g&#xfc;n &#xf6;nce normal bir hayat olan normal bir k&#x131;zd&#x131;m. Annemle ve babamla hep iyi bir ili&#x15f;kimiz olmu&#x15f;tu hatta iyiden de &#xf6;te hep arkada&#x15f; gibiydik, bu ko&#x15f;ullar arkada&#x15f; &#xe7;evremde ve ya&#x15f;ad&#x131;&#x11f;&#x131;m &#xe7;evredeki b&#xfc;t&#xfc;n insanlar i&#xe7;inde geerlidi. &#xa;&#xa;Ben her zaman girdi&#x11f;i her ortama uyum sa&#x11f;layan, girdi&#x11f;im her &#xe7;evrede sevilen, &#xf6;rnek g&#xf6;sterilen biri olmu&#x15f;tum. &#x130;nsanlar&#x131;n fikirlerine sayg&#x131; duyar, sevdi&#x11f;im insanlar&#x131;n bana verdi&#x11f;i nasihatleri dinler, g&#xf6;zlerinin benim &#xfc;zerimde olmas&#x131;ndan ho&#x15f;lan&#x131;rd&#x131;m. &#xa;&#xa;Fakat bu aralar insanlar&#x131;n benimle konu&#x15f;ma &#xe7;abalar&#x131; ( ki bu ailem, arkada&#x15f;lar&#x131;m da olsa) benim hakk&#x131;mda karar vermeleri, beni izlemeleri, g&#xf6;zlerinin &#xfc;zerimde olma&#x131;, acaba ne zaman deli deli konu&#x15f;maya ba&#x15f;layacak, ya da ne zaman psikolojik hasta gibi insanlara sald&#x131;racak diye beklemeleri ve tetikte olmalar&#x131; pekte ho&#x15f;uma gitti&#x11f;i s&#xf6;ylenemez. Daha k&#xf6;t&#xfc;s&#xfc; insanlar&#x131;n benim hakk&#x131;mda ki d&#xfc;&#x15f;&#xfc;ncelerini, benim hakk&#x131;mda kafalar&#x131;ndan ge&#xe7;irdikleri tetiklenmesinin sebebi oldu&#x11f;u halde susturamamak, bu sesleri kapatamamak kadar &#xe7;aresiz bir &#x15f;ey yoktur herhalde? &#xa;&#xa;Eskiden insanlar&#x131;n d&#xfc;&#x15f;&#xfc;ncelerini merak eder, onlar&#x131; okuman&#x131;n yolu olsa hayat&#x131;n daha kolay olaca&#x11f;&#x131;n&#x131; , fard&#x131;nda olmadan k&#x131;rd&#x131;&#x11f;&#x131;n&#x131;z insanlar&#x131; hissetmek ve ya&#x11f;at&#x131;&#x11f;&#x131;m&#x131;z hatalar&#x131; h&#x131;zl&#x131;ca d&#xfc;zeltmek veya kimsenin yalan s&#xf6;yleyemedi&#x11f;i, dillerinin olmasa bile beyinlerinin do&#x11f;rular&#x131; hayk&#x131;rd&#x131;&#x11f;&#x131; bir d&#xfc;nyada ya&#x15f;aman&#x131;n huzuru da getirece&#x11f;ini d&#xfc;&#x15f;&#xfc;n&#xfc;rd&#xfc;m. &#xa;&#xa;(bazen ne diledi&#x11f;inize dikkat etmeniz gerekir, &#xe7;&#xfc;nk&#xfc; sizin i&#xe7;in iyi sonu&#xe7;laar do&#x11f;uraca&#x11f;&#x131;n&#x131; d&#xfc;&#x15f;&#xfc;nd&#xfc;&#x11f;&#xfc;n&#xfc;z dileklerin hi&#xe7;te &#xf6;yle olmad&#x131;&#x11f;&#x131;n&#x131; anlad&#x131;&#x11f;&#x131;n&#x131;zda, &#xe7;ok ge&#xe7; olmu&#x15f; olabilir) &#xa;&#xa;Oysa &#xf6;yle olmad&#x131;&#x11f;&#x131;n&#x131; fark etti&#x11f;imde art&#x131;k &#xe7;ok ge&#xe7;ti asla b&#xf6;yle bir &#x15f;eyi deneyimlemek istemezdiniz, bu durumdan &#xf6;&#x11f;rendi&#x11f;im bir ger&#xe7;ek varsa o da dur durak bilmeden ba&#x11f;&#x131;ran milyonlarca insan&#x131;n olmas&#x131; ve sizin bunu durdurabilmek ve kapatabilmek i&#xe7;in hi&#xe7; bir &#x15f;ey yapam&#x131;yor olman&#x131;zd&#x131;r. "/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="0" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Geri"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="C:\Users\Excalibur\OneDrive\Masa&#xfc;st&#xfc;\logo1.jpg"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

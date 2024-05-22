@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,-86,0,0,3,12"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="0"/>
+    <SyntheticProperty name="generateSize" type="boolean" value="true"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="642" max="-2" attributes="0"/>
+              <EmptySpace pref="78" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="jButton1" min="-2" pref="74" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" min="-2" pref="492" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#xa;                                                                          MAHF&#x130;  BA&#x15e;LANGI&#xc7;&#xa;&#xa;Ge&#xe7;mi&#x15f; zamanlarda verilen bir sava&#x15f;ta bir d&#xfc;&#x15f;man&#x131;n y&#xfc;kseldi&#x11f;i yank&#x131;lanm&#x131;&#x15f;t&#x131; diyar diyar her yerde. &#xd6;yle kirli bir oyunun i&#xe7;ine girmi&#x15f;ti ki bu d&#xfc;&#x15f;man, yapt&#x131;klar&#x131;n&#x131;n bedelini bir &#xe7;ok ki&#x15f;i &#xe7;ekmek zorunda kalm&#x131;&#x15f;t&#x131;.&#xa;Ba&#x15f;ta y&#x131;k&#x131;m ve &#xf6;l&#xfc;m kokan canlar verildi, sonras&#x131;nda bir &#xe7;ok ki&#x15f;i hapis ve s&#xfc;rg&#xfc;n edildi. D&#xfc;zen bozuldu adaletin terazisi ters y&#xf6;nde akmaya ba&#x15f;lad&#x131;.  Sevelondor sular&#x131;n&#x131;n masumlu&#x11f;u kan deh&#x15f;etine d&#xf6;n&#xfc;&#x15f;t&#xfc;. &#xd6;yle bir d&#xf6;nem ba&#x15f;lad&#x131; ki k&#xfc;&#xe7;&#xfc;k ta&#x15f;lar&#x131;n arkas&#x131;na saklanm&#x131;&#x15f; olan k&#xf6;t&#xfc;l&#xfc;k da&#x11f; olup b&#xfc;y&#xfc;d&#xfc;. Ve tek bir ki&#x15f;i herkes &#xfc;st&#xfc;nde h&#xfc;k&#xfc;m s&#xfc;rmek &#xfc;zere korkun&#xe7; bir b&#xfc;y&#xfc; yapt&#x131;. Anlat&#x131;lanlar ve tarih al&#x131;p y&#xfc;r&#xfc;d&#xfc; y&#x131;llar ge&#xe7;ti, fakat k&#xf6;t&#xfc;l&#xfc;k yok olmad&#x131; sadece uykuya dald&#x131;.&#xa;T&#xfc;m bunlardan habersiz ya&#x15f;ayan, kendi k&#xfc;&#xe7;&#xfc;k d&#xfc;nyas&#x131;n&#x131;n asl&#x131;nda ne kadar b&#xfc;y&#xfc;k oldu&#x11f;unu bilmeyen birileride vard&#x131;  elbet. Bir kurtar&#x131;c&#x131; m&#x131;? Yoksa bir aptal m&#x131;? Ba&#x15f;&#x131;na geleceklerden habersiz uyudu&#x11f;u hastanede odas&#x131;nda uzun bir aradan sonra tekrardan g&#xf6;zlerini a&#xe7;t&#x131;.&#xa;Uzun bir sessizli&#x11f;in i&#xe7;indeyim sanki bir u&#xe7;urumun i&#xe7;inde amans&#x131;zca her g&#xfc;n savruluyorum. Yorgun ve uzun bir yolculu&#x11f;un bitmek bilmeyen dallar&#x131;na vuruyorum her g&#xfc;n yeniden ve yeniden&#x2026;&#xa;G&#xfc;nlerim her g&#xfc;n b&#xf6;yle tekrar ediyordu i&#xe7;imde, fakat bir g&#xfc;n bu uzun sessizli&#x11f;im sonunda nihayete ermi&#x15f; ve uyanm&#x131;&#x15f;t&#x131;m.&#xa;G&#xf6;zlerimi a&#xe7;t&#x131;&#x11f;&#x131;mda bir hastane odas&#x131;nda buluvermi&#x15f;tim kendimi, koluma ba&#xfc;lanm&#x131;&#x15f; bir serum bo&#x11f;az&#x131;ma oturmu&#x15f; ac&#x131; bir tat ile uyanm&#x131;&#x15f;t&#x131;m.Merakl&#x131; g&#xf6;zlerle yeni uyan&#x131;&#x15f;&#x131;m&#x131;n verdi&#x11f;i aptall&#x131;kla bulundu&#x11f;um oday&#x131; incelemeye koyulmu&#x15f;tum.&#xa;Yan&#x131;mda bana ba&#x11f;lanm&#x131;&#x15f; bir s&#xfc;r&#xfc; makineler g&#xf6;rm&#xfc;&#x15f;t&#xfc;m. Di&#x11f;er yan&#x131;ma kafam&#x131; &#xe7;evirdi&#x11f;imdeyse hafif bir boyun ac&#x131;s&#x131; hissetmi&#x15f;tim, san&#x131;r&#x131;m uzunca bir s&#xfc;redir uyuyordum ki, bu kadar tutulmu&#x15f;tu.&#xa;G&#xf6;zlerimi yukar&#x131;ya do&#x11f;ru kald&#x131;r&#x131;p oday&#x131; s&#xfc;zd&#xfc;&#x11f;&#xfc;mdeyse yan tarafta as&#x131;l&#x131; olan panonun &#xfc;st&#xfc;ndeki b&#xfc;ro&#x15f;&#xfc;rler dikkatimi &#xe7;ekmi&#x15f;ti. T&#x131;p deyimi bir s&#xfc;r&#xfc; z&#x131;rval&#x131;&#x11f;&#x131;n resmi vard&#x131; &#xfc;st&#xfc;nde, &#x15f;&#xfc;phesiz yeni uyanan birisi i&#xe7;in olduk&#xe7;a itici bir yerdi buras&#x131;.&#xa;&#xc7;ok ge&#xe7;meden &#xfc;st&#xfc;me &#xf6;rt&#xfc;lm&#xfc;&#x15f; olan beyaz &#xe7;ar&#x15f;af&#x131; sa&#x11f; elimle &#xe7;ektim. Bedenime do&#x11f;ru zorlanarak da olsa, g&#xf6;zlerimi ili&#x15f;tirdim. Ben ne kadar s&#xfc;re uyumu&#x15f;tum b&#xf6;yle? Bacaklar&#x131;m &#xe7;&#x131;k incelmi&#x15f;ti, belim &#xe7;&#x131;kacakm&#x131;&#x15f; gibi duruyordu, tahminen elli kiloya kadar d&#xfc;&#x15f;m&#xfc;&#x15f; olmal&#x131;yd&#x131;m. Elim ile &#xe7;ar&#x15f;af&#x131; tekrardan &#xfc;st&#xfc;me &#xe7;ekerkendikkat ettim, kolum mosmor olmu&#x15f;tu. Sesli bir &#x15f;ekilde istemsizce &quot;Ne kadarda iyi bir hastaneye d&#xfc;&#x15f;m&#xfc;&#x15f;&#xfc;m&quot; dedim. &#xa;Hastaneye nas&#x131;l getirildi&#x11f;imi yada burada ne i&#x15f;im oldu&#x11f;unu hat&#x131;rlam&#x131;yordum. Bir kaza m&#x131;ge&#xe7;irmi&#x15f;tim? Yoksa uzunca bir uykudan yeni mi uyanm&#x131;&#x15f;t&#x131;&#x131;m? Bedenimin yorgunlu&#x11f;unu hissedebiliyordum, sanki dayak yemi&#x15f; gibiydim.&#xa;Ben olanlara anlam vermeye &#xe7;al&#x131;&#x15f;&#x131;rken birden kap&#x131;n&#x131;n g&#x131;c&#x131;rdama sesi ile irkildim, i&#xe7;eriye biri girmi&#x15f;ti. Kafas&#x131;na ge&#xe7;irdi&#x11f;i kap&#xfc;&#x15f;onundan y&#xfc;z&#xfc;n&#xfc; tam olarak g&#xf6;remiyordum, bir iki ad&#x131;m att&#x131; ve daha da yak&#x131;nla&#x15f;t&#x131;.&#xa;Sod&#x11f;uk ve bembeyaz ellerinden birini ceplerinden &#xe7;&#x131;kar&#x131;p kap&#xfc;&#x15f;onunu yava&#x15f;&#xe7;a indirdi. Kap&#xfc;&#x15f;onu &#xe7;&#x131;k&#x131;nca beline kadar uzun sa&#xe7;lar&#x131; iniverdi aniden.&#xa;Koyu kestane &#xe7;ok g&#xfc;zel sa&#xe7;lar&#x131; oolan, g&#xf6;zleri t&#x131;pk&#x131; benimkiler gibi koyu mavi ince uzun boylu y&#xfc;z hatlar&#x131; oolduk&#xe7;a belirgn bir k&#x131;z duruyordu kar&#x15f;&#x131;mda.l&#xa; Kim oldu&#x11f;unu bilmiyordum, bu ki&#x15f;iyi tan&#x131;m&#x131;yordum ama nedense yabanc&#x131; ve uzak da gelmiyordu. Sanki bir yan&#x131;m onu tan&#x131;yor gibiydi. K&#x131;sa s&#xfc;reli bak&#x131;&#x15f;malar&#x131;m&#x131;z&#x131;n ard&#x131;ndan kadifemsi bir sesle konu&#x15f;tu. &#xa;&quot;Arya?&quot;&#xa;Merakla cevap verdim,&#xa;&quot;Afedersiniz sizi tan&#x131;yor muyum?&quot;&#xa;Sanki o an hi&#xe7; tan&#x131;mad&#x131;&#x11f;&#x131;m bu k&#x131;za cevap vermi&#x15f;tim. &#xc7;&#xfc;nk&#xfc; ben ona bunu dedikten sonra surat&#x131;ndaki o sorgulay&#x131;c&#x131; ifade silinivermi&#x15f;ti. Bir &#x15f;ekilde rahatlam&#x131;&#x15f;t&#x131;, sebebini bilmeden neye cevap verdi&#x11f;imi de bilmiyordum. Onun bu suskun tavr&#x131;ndan sonra ses tonum biraz daha hiddetli &#xe7;&#x131;karak tekrardan konu&#x15f;tum.&#xa;&quot;Siz kimsiniz?&quot;&#xa;Kar&#x15f;&#x131;mdaki k&#x131;z sessizli&#x11f;ini koruyarak, yan&#x131;ma iyice yak&#x131;nla&#x15f;&#x131;p elimi ellerininaras&#x131;na ald&#x131; ve sonras&#x131;ndaysa elimi &#xf6;pt&#xfc;.&#xa;Neler oldu&#x11f;unu hala anlam&#x131;yordum bu k&#x131;z kimdi? Neden psikopat gibi elimi &#xf6;p&#xfc;yordu. Tahminimce yirmi veya yirmi be&#x15f; ya&#x15f;lar&#x131;nda g&#xf6;steriyordu. Yoksa benim arkada&#x15f;&#x131;m falan m&#x131;yd&#x131;? Daha da k&#x131;zarak eli mi onun ellerinden h&#x131;zl&#x131;ca &#xe7;ektim ve bu sefer ciddi ve sert bir ses tonuyla&#xa;&quot;Derhal gitmezseniz avaz&#x131;m &#xe7;&#x131;kt&#x131;&#x11f;&#x131; kadar ba&#x11f;&#x131;raca&#x11f;&#x131;m!&quot; dedim.&#xa;Bendeki bu endi&#x15f;eye ufac&#x131;k bir s&#x131;r&#x131;t&#x131;&#x15f; atm&#x131;&#x15f;t&#x131;. Sebebini hala anlam&#x131;yordum ve &#xe7;&#x131;ld&#x131;rmak &#xfc;zereydim. Neyse ki konu&#x15f;maya ba&#x15f;lam&#x131;&#x15f;t&#x131;, &quot;Vakti geldi&#x11f;inde &#xe7;o&#x11f;u &#x15f;eyi anlayacaks&#x131;n, bilmen gereken sade&#x15f;e &#x15f;u, kimseye g&#xfc;venme ve burada bile g&#xfc;vende de&#x11f;ilsin.&quot;&#xa;Onun ses tonundaki endi&#x15f;eli halini g&#xf6;rmemek imkans&#x131;zd&#x131; ve merak ile tekrar at&#x131;ld&#x131;m, &quot;Ne demek istiyorsunuz? siz kimsiniz?&quot; demi&#x15f;tim. O da,&#xa;&quot;En yak&#x131;nlar&#x131;na bile, hi&#xe7; kimseye g&#xfc;venme!&quot;&#xa;Aniden &#xfc;st&#xfc;ne giydi&#x11f;i h&#x131;rkan&#x131;n kap&#xfc;&#x15f;onunu yeniden kafas&#x131;na &#xe7;ekti, sa&#xe7;lar&#x131;n&#x131; d&#xfc;zeltip h&#x131;rkan&#x131;n i&#xe7;ne soktu emin ad&#x131;mlarla odan&#x131;n kap&#x131;s&#x131;ndan d&#x131;&#x15f;ar&#x131; &#xe7;&#x131;kt&#x131;.&#xa;Onu hala odan&#x131;n koridora bakan penceresinden g&#xf6;rebiliyordum kafas&#x131;n&#x131; yere e&#x11f;erek sanki gizleniyormu&#x15f; gibi h&#x131;zl&#x131; h&#x131;zl&#x131; y&#xfc;r&#xfc;yerek uzakla&#x15f;t&#x131;. Sanki birinden yada birilerinden gizleniyormu&#x15f; gibi bir hali vard&#x131;. Neler oldu&#x11f;una dair en ufak fikrim yoktu. Beni neye kar&#x15f;&#x131; uyarm&#x131;&#x15f;t&#x131; ne demek istiyordu anlamam&#x131;&#x15f;t&#x131;m. Delinin biri oldu&#x11f;unu varsaym&#x131;&#x15f;t&#x131;m sadece i&#xe7;imden.&#xa;Yataktan biraz daha do&#x11f;rulup, kendimi oturur duruma getirmi&#x15f;tim. Aptal gibi etrafa bak&#x131;n&#x131;yordum. Benim bu hastanede ne i&#x15f;im vard&#x131;? Kaza m&#x131; ge&#xe7;irmi&#x15f;tim, kahretsin hi&#xe7; bir &#x15f;ey hat&#x131;rlam&#x131;yordum. Sanki kafam&#x131;n i&#xe7;inde ince ince kaybolan iplikler vard&#x131;. Oturmayan par&#xe7;alar, bir araya getiremedi&#x11f;im &#x15f;eyler.&#xa;Kendi kendime sava&#x15f; verirken bir hem&#x15f;irenin kap&#x131;y&#x131; a&#xe7;mas&#x131;yla irkildim, ben daha  ne oldu&#x11f;unu anlamadan bana &#x15f;a&#x15f;k&#x131;n bir ifadeyle bakm&#x131;&#x15f;t&#x131;. &#xc7;ok uzunca bir s&#xfc;re bakmaya devam etti. Bana neden b&#xf6;yle bak&#x131;yordu?&#xa;Bir s&#xfc;re daha durduktan sonra, &quot;Uyanm&#x131;&#x15f;s&#x131;&#x131;n&#x131;z! Doktor beye hemen haber vereyim!&quot; &#xa;&#xc7;ok s&#xfc;rmeden odadan &#xe7;&#x131;k&#x131;p doktorlara haber vermi&#x15f;ti. Odaya biri kad&#x131;n di&#x11f;eri erkek iki doktor geldi. Girdikleri gibi ellerindeki t&#x131;bbi z&#x131;mb&#x131;rt&#x131;lar&#x131;n&#x131; &#xfc;zerimde kullanmaya ba&#x15f;lad&#x131;lar. Biri g&#xf6;zlerime y&#x131;llard&#x131;r anlam veremedi&#x11f;im o &#x131;&#x15f;&#x131;&#x11f;&#x131; tutmu&#x15f;tu, di&#x11f;eri ise tansiyonumu &#xf6;l&#xe7;&#xfc;yordu.&#xa;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="0" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Geri"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="C:\Users\Excalibur\OneDrive\Masa&#xfc;st&#xfc;\logo1.jpg"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

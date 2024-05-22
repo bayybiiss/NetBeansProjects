@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,12,0,0,1,-27"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="0"/>
+    <SyntheticProperty name="generateSize" type="boolean" value="true"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane2" pref="343" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="jButton2" max="32767" attributes="0"/>
+                  <Component id="jButton1" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="64" max="-2" attributes="0"/>
+                      <Component id="jScrollPane2" min="-2" pref="337" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="12" max="32767" attributes="0"/>
+              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea2">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Halit Ziya U&#x15f;akl&#x131;gil - A&#x15f;k-&#x131; Memnu&#xa; &#xa;Maun sandalla m&#xfc;sademeyi and&#x131;ran bu tesad&#xfc;flere art&#x131;k o kadar al&#x131;&#x15f;m&#x131;&#x15f; idiler ki, bug&#xfc;n Kalenderden d&#xf6;nerken gene onun &#xe2;deta &#xe7;arparcas&#x131;na yak&#x131;ndan s&#x131;y&#x131;r&#x131;p ge&#xe7;i&#x15f;ini fark etmemi&#x15f; g&#xf6;l&#xfc;nd&#xfc;ler. Beyaz sandal&#x131;n &#x15f;&#x131;k, zarif s&#xfc;varilerinde k&#xfc;&#xe7;&#xfc;k bir tel&#xe2;&#x15f; eseri, bir ufak ha&#x15f;yet sayhas&#x131; bile uyand&#x131;ram&#x131;yarak ge&#xe7;en maun sandala&#xa; &#xa;&#x2014; her iki taraf&#x131; g&#xf6;rebilmek &#xfc;zere biraz yan oturan &#x2014; Peyker ba&#x15f;&#x131;n&#x131; bile &#xe7;evirmedi, arkas&#x131;n&#x131; sahile vererek Anadolu k&#x131;y&#x131;s&#x131;**na dumanlar&#x131;n&#x131; serpen bir vapura dalm&#x131;&#x15f; g&#xf6;zlerile Bihter&apos;in beyaz &#xf6;rt&#xfc;s&#xfc;n&#xfc;n i&#xe7;inde vekar ve endi&#x15f;e dolu &#xe7;ehresi tamamile kay&#x131;ts&#x131;z kald&#x131;; yaln&#x131;z, valideleri, sar&#x131;ya boyanm&#x131;&#x15f; sa&#xe7;lar&#x131;n&#x131;n alt&#x131;nda g&#xf6;zlerinin m&#xe2;nas&#x131;na derin bir m&#xfc;bhemlik veren geni&#x15f; bir s&#xfc;rme &#xe7;enberile &#xe7;evrilmi&#x15f; g&#xf6;zlerini &#xe7;evirdi, ucunda gizli te&#x15f;ekk&#xfc;r m&#xe2;nas&#x131; titreyen bir serzeni&#x15f;&#xa; &#xa;bak&#x131;&#x15f;ile mahun sandala b&#xfc;sb&#xfc;t&#xfc;n yabanc&#x131; kalmad&#x131;.&#xa; &#xa;Aralar&#x131;nda mesafe biraz uzan&#x131;r uzanmaz, bu &#xfc;&#xe7; kad&#x131;n&#x131;n kay&#x131;ts&#x131;z vekar&#x131;na birden halel geldi, en evvel valide &#x2014; k&#x131;rk be&#x15f; senenin hen&#xfc;z izalesine muvaffak olmad&#x131;&#x11f;&#x131; bir &#x15f;ebap vehmile mesirelerde etrafa da&#x11f;&#x131;lan tebess&#xfc;mleri kendi lehine isnad etmek i&apos;tiyad&#x131;n&#x131; takip ederek &#x2014; dedi ki : &#x2014; Bu adnan bey de!... Art&#x131;k &#xe2;det oldu, mutlaka her &#xe7;&#x131;k&#x131;&#x15f;ta tesad&#xfc;f edece&#x11f;iz; bug&#xfc;n Kalenderde yokdu, de&#x11f;il mi Bihter?...&#xa; &#xa;Validesinin &#x15f;ik&#xe2;yet &#x15f;ekli alt&#x131;nda gizli bir memnuniyeti k&#xe2;fi derecede sakl&#x131;yam&#x131;yan s&#xf6;zlerini Bihter cevaps&#x131;z b&#x131;rakt&#x131;. Peyker validesine do&#x11f;rudan do&#x11f;ruya cevap vermeyerek: &#x2014; Bug&#xfc;n &#xe7;ocuklar&#x131; da yan&#x131;nda de&#x11f;il... dedi, ne g&#xfc;zel &#xe7;ocuklar, de&#x11f;il mi anne? Hele o&#x11f;lan! Yumuk yumuk g&#xf6;zlerile bir bak&#x131;&#x15f;&#x131; var ki...&#xa; &#xa;Bihter, e&#x11f;ilmiyerek, dudaklar&#x131;n&#x131;n ucile sordu : Validelerini tan&#x131;r m&#x131;yd&#x131;n&#x131;z, anne K&#x131;z annesine &#xe7;ekmi&#x15f;&#xa; &#xa; &#xa; &#xa; &#xa; &#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa;olmal&#x131;...&#xa; &#xa;Firdevs han&#x131;m Bihter&apos;in sualini anlamam&#x131;&#x15f;&#xe7;asma donuk g&#xf6;zlerle bir saniye bakt&#x131;, sonra ba&#x15f;&#x131;m &#xe7;evirerek art&#x131;k g&#xf6;zden kaybolan sandal&#x131; ara&#x15f;t&#x131;rd&#x131;; tekrar Bihter&apos;e bakarak ve bu defa kendi zihninde cereyan eden efk&#xe2;r silsilesini takip ederek :&#xa; &#xa;&#x2014; Ne tuhaf oir bak&#x131;&#x15f;&#x131; var! dedi. &#x130;srar eden bir bak&#x131;&#x15f;! Ne zaman g&#xf6;zlerim tesad&#xfc;f etse...&#xa; &#xa;Firdevs han&#x131;m ikmal etmeden evvel biraz tavakkuf etti. Gali ba &#xab;bana&#xbb; diyecekti, fakat k&#x131;zlar&#x131;na kar&#x15f;&#x131; bu kadarc&#x131;k bir lisan ihtiyat&#x131;na tamamiyle s&#xf6;nmesi kabil olam&#x131;yan bir annelik vekar&#x131; l&#xfc;zum g&#xf6;rd&#xfc;, ve&#xa;: &#xab;Buraya bakarken g&#xf6;r&#xfc;yorum...&#xbb; dedi.&#xa;Validelerinin bu k&#xfc;&#xe7;&#xfc;k lisan ihtiyat&#x131; ikisinin de dikkat nazar&#x131;ndan ka&#xe7;amad&#x131;.&#xa; &#xa;Peykerle Bihter manal&#x131;ca bak&#x131;&#x15f;arak g&#xfc;l&#xfc;msediler, hatt&#xe2; Peyker bu g&#xfc;l&#xfc;msemenin ifadesini a&#xe7;&#x131;klamaktan &#xe7;ekinmiye-rek: &#x2014; Evet, g&#xf6;zlerini Bihter&apos;den ay&#x131;rm&#x131;yor, dedi.&#xa; &#xa;Bu c&#xfc;mlenin tesirini g&#xf6;rmek i&#xe7;in validelerine bakt&#x131;lar, o, cevap vermemek i&#xe7;in uzaklara bakt&#x131;.&#xa; &#xa;Firdevs Han&#x131;m Melih bey tak&#x131;m&#x131;n&#x131;n husus&#xee; &#x15f;&#xf6;hretinden en ziyade hissesi olan bir &#xe7;ehredir ki, i&#x15f;te otuz senedenberi &#x2014; on be&#x15f; ya&#x15f;&#x131;ndan k&#x131;rk be&#x15f; ya&#x15f;&#x131;na kadar &#x2014;&#xa; &#xa;b&#xfc;t&#xfc;n mesirelerin en m&#xe2;ruf hayat temasilinden biridir. &#x130;stanbul&apos;un seyranlar&#x131; takviminden ismi si- linemiyen, hatt&#xe2; silinemiyecek g&#xf6;r&#xfc;nen, hayat&#x131;ndan her sene ge&#xe7;tik&#xe7;e gen&#xe7;li&#x11f;e daha ziyade as&#x131;lan bu kad&#x131;n, beyazl&#x131;&#x11f;&#x131;n&#x131; saklamak i&#xe7;in sar&#x131;ya boyad&#x131;&#x11f;&#x131; sa&#xe7;larile, taravetinin izmih&#xe2;lini &#xf6;rtmek i&#xe7;in d&#xfc;zg&#xfc;nlere s&#x131;vad&#x131;&#x11f;&#x131; simasile kendisini o kadar aldatm&#x131;&#x15f;, hen&#xfc;z tazeli&#x11f;i vehminin i&#xe7;ine &#xf6;yle bir fikir del&#xe2;letile nefsini tevdi etmi&#x15f; idi ki, Peyker&apos;le Bihter&apos;in ya&#x15f;lar&#x131;n&#x131; &#x2014;&#xa; &#xa;birinin yirmi be&#x15f;, &#xf6;tekinin yirmi iki senesini &#x2014; unutarak onlar&#x131; b&#xfc;t&#xfc;n bu tebess&#xfc;mlerden, bu takib- lerden hisse alam&#x131;yacak kadar &#xe7;ocuk zannederdi.&#xa; &#xa;Bu, iki k&#x131;zla valide aras&#x131;nda ebed&#xee; bir cenk ve istihza zemini idi ki, tamamen vuzuh ve serahat kesb edememekle beraber hemen her g&#xfc;n tekerr&#xfc;r eder; Peyker&apos;in manal&#x131; bir kelimesi, Bihter&apos;in insafs&#x131;z bir tebess&#xfc;m&#xfc; g&#xfc;ya bu iki gen&#xe7; v&#xfc;cudun gen&#xe7;lik muzafferiyetini h&#xe2;l&#xe2; gen&#xe7; kalmak isteyen bu validenin harap ve fersude k&#x131;rk be&#x15f; senesine &#xe7;arpard&#x131;.&#xa; &#xa;O, b&#xf6;yle h&#xe2;in bir kelime, merhametsiz bir tebess&#xfc;m, kulaklar&#x131;na m&#xfc;thi&#x15f; bir istihza &#x131;sl&#x131;&#x11f;&#x131; ile k&#x131;rk be&#x15f; ya&#x15f;&#x131;m ba&#x11f;&#x131;r&#x131;rken dudaklar&#x131;nda ac&#x131; bir irtisam ile dalg&#x131;n dalg&#x131;n Peyker&apos;le Bihter&apos;e bakar, sonra ufak bir titreyi&#x15f;le g&#xf6;zlerini bu hakikatden ay&#x131;rarak tekrar &#x15f;ebap vehminin, i&#x11f;fal hazz&#x131;na avdet ederdi.&#xa; &#xa;&#x15e;imdi, d&#xf6;rt aydan beri m&#xfc;zic bir fikir beynini t&#x131;rmal&#x131;yordu. Peyker biraz sonra onu b&#xfc;y&#xfc;k valide edecekti. Buna vukuf h&#xe2;s&#x131;l ettikten sonra b&#xfc;y&#xfc;k validelik bir k&#xe2;bus a&#x11f;&#x131;rl&#x131;&#x11f;ile onu bunaltma&#x11f;a ba&#x15f;lad&#x131;. Kendi kendisine g&#xfc;ya bu fikri silkip atmak istiyerek: &#xab;M&#xfc;mk&#xfc;n de&#x11f;il!&#xbb; derdi.&#xa; &#xa;B&#xfc;y&#xfc;k valide...&#xa; &#xa; &#xa; &#xa; &#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa; &#xa;&#xa;&#xa;Melihjjbey tak&#x131;m&#x131;n&#x131;n i&#xe7;inde kad&#x131;nlar hatt&#xe2; zor valide olurken b&#xfc;y&#xfc;k valide olmak onun i&#xe7;in bir z&#xfc;l, bir ay&#x131;p h&#xfc;km&#xfc;nde idi. &#x15e;imdiden buna bir &#xe7;&#xe2;re d&#xfc;&#x15f;&#xfc;n&#xfc;yor, sa&#xe7;lar&#x131;n&#x131;n beyazlarile &#xe7;ehresinin harabisine bir tamir tedbiri bulduktan sonra b&#xfc;y&#xfc;k valideli&#x11f;e de bir &#x15f;ey icad etmek istiyordu, &#xf6;yle bir &#x15f;ey ki ona &#x15f;ebap vehminin mestli-&#x11f;inde gizlenebilmek i&#xe7;in imk&#xe2;n b&#x131;raks&#x131;n: &#xc7;ocuk annesine abla, ona da anne, diyecekti.&#xa; &#xa;Melih bey tak&#x131;m&#x131;n&#x131;n i&#xe7;inde b&#xf6;yle garip bir istisna te&#x15f;kil etmek zilletini tali onun i&#xe7;in mi al&#x131;koymu&#x15f; idi? Bu vak&apos;a hayat&#x131;n&#x131; telvis edecek bir leke kadar onu korkutuyor ve art&#x131;k Peyker&apos;e onu b&#xfc;y&#xfc;k valide edecek olan bu mahl&#xfb;ka, a&#xe7;&#x131;k&#xe7;a husumet ediyordu.&#xa; &#xa;Peyker&apos;in son c&#xfc;mlesinden sonra sandalda hep s&#xfc;k&#xfb;t ettiler. Adnan bey art&#x131;k unutulmu&#x15f; g&#xf6;r&#xfc;nd&#xfc;.&#xa; &#xa;Melih bey tak&#x131;m&#x131;... Bu tak&#x131;m&#x131;n &#x130;stanbul hayat&#x131;nda mertebesinin t&#xe2;yini metin bir kaideye m&#xfc;stenid olamaz. Tamamiyle kibar &#xe2;lemine mensubiyet iddia edecek kadar sa&#x11f;lam bir asalet sahibi ol-m&#x131;yan bu ailenin yar&#x131;m as&#x131;r evveline kadar mevcudiyeti me&#x15f;k&#xfb;k ve m&#xfc;bhemdir, aile efrad&#x131; i&#xe7;inde kibar hayat sicilinde tan&#x131;nm&#x131;&#x15f; isimler b&#x131;rakanlara uzaktan yak&#x131;ndan &#x2014; biraz kar&#x131;&#x15f;&#x131;k olmakla beraber &#x2014;&#xa; &#xa;tesad&#xfc;f etmek nesiller &#x15f;ecereleri m&#xfc;teveggilerine belki m&#xfc;mk&#xfc;n olur. As&#x131;l tak&#x131;m&#x131;n husus&#xee; hayat tarihi i&#x15f;te bu aileye nam&#x131;n&#x131; terk eden Melih Beyden ibtida eder. &#xab;Melih bey tak&#x131;m&#x131;&#xbb; unvan&#x131; ailenin b&#xfc;t&#xfc;n ruh&#xee; tarihini rumuz ve &#x15f;&#xfc;mulile telhis ve icmal eder bir ifade v&#xfc;s&apos;-atine maliktir.&#xa;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="C:\Users\Excalibur\OneDrive\Masa&#xfc;st&#xfc;\logo1.jpg"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="0" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Geri"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

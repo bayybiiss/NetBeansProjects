@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,-126,0,0,2,-96"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="0"/>
+    <SyntheticProperty name="generateSize" type="boolean" value="true"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jButton1" alignment="1" min="-2" pref="83" max="-2" attributes="0"/>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="jScrollPane1" min="-2" pref="522" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                      <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="480" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="488" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="HACKER &#xa;&#xa;Kap&#x131;y&#x131; sert&#xe7;e kapatarak odama girdim, yine ailemle tart&#x131;&#x15f;m&#x131;&#x15f;t&#x131;m. A&#x11f;layarak dizlerimin &#xfc;zerine &#xe7;&#xf6;kt&#xfc;m, hemen hemen her gece ya&#x15f;ad&#x131;&#x11f;&#x131;m bir and&#x131;. &#xa;&#xa;Ailemin &#xe7;ocuklar&#x131; aras&#x131;nda yapt&#x131;&#x11f;&#x131; ayr&#x131;mc&#x131;l&#x131;kt&#x131; konu, ama art&#x131;k kabullenmem laz&#x131;md&#x131;. Ablam&#x131; benden daha &#xe7;ok seviyorlard&#x131;, s&#xf6;z konusu o oldu&#x11f;unda beni unutuyorlard&#x131;. &#xa;&#xa;Ona daha fazla ilgi g&#xf6;steriyor, beni umursam&#x131;uorlard&#x131;. Elimin tersiyle yanaklar&#x131;mm&#x131; &#x131;slatan g&#xf6;zya&#x15f;lar&#x131;m&#x131; silerek aya&#x11f;a kalkt&#x131;m. &#xa;&#xa;Ve masam&#x131;n &#xfc;zerinden beyaz kulakl&#x131;&#x11f;&#x131;m&#x131; al&#x131;&#x11f; yata&#x11f;&#x131;ma oturdum, kulakl&#x131;&#x11f;&#x131;m&#x131; telefonuma takarak bir m&#xfc;zik a&#xe7;tm. &#xa;&#xa;Birka&#xe7; dakika boyunca duygusal bir m&#xfc;zik dinledim.Tam m&#xfc;zi&#x11f;i de&#x11f;i&#x15f;tirece&#x11f;im s&#x131;rada ise odama sinirli bir &#x15f;ekilde annem girdi. &#xa;&#xa;Ona &#x201c;ne oldu?&#x201d; dercesine bakarken hemen arkas&#x131;ndan babam geldi. Ka&#x15f;lar&#x131;m &#xe7;at&#x131;k bir &#x15f;ekilde onlara bak&#x131;yordum, &#x201c;neden geldiniz?&#x201d; diye sordu&#x11f;umda &#x201c;bundan sonra bizimle nas&#x131;l konu&#x15f;man gerekti&#x11f;ini &#xf6;&#x11f;reneceksin&#x201d; dedi annem. &#xa;&#xa;Hemen ard&#x131;ndan babama i&#x15f;aret verdi ve babam elinde ki malemelerle kap&#x131;m&#x131; s&#xf6;kmeye ba&#x15f;lad&#x131;. Sinirle ve inanamayarak kahkaha att&#x131;m. &#x15e;AKA MI YAPIYORLARDI? &#xa;&#xa;&#x201c;Demek bize kap&#x131;y&#x131; &#xe7;arpars&#x131;n ha?&#x201d; diye m&#x131;r&#x131;ldand&#x131; annem &#xf6;fkeyle. Babam ise &#xe7;oktan kap&#x131;y&#x131; s&#xf6;km&#xfc;&#x15f;, resmen elinde tutarak d&#x131;&#x15f;ar&#x131; &#xe7;&#x131;kar&#x131;yordu. &#xa;&#xa;&#x201c;Ya siz iyi misiniz?!&#x201d; diye ba&#x11f;&#x131;rarak sinirle yata&#x11f;&#x131;mdan do&#x11f;ruldum. &#x201c;Mahramiyet diye bir &#x15f;ey var!&#x201d; o s&#x131;rada annemin yan&#x131;nda benden iki ya&#x15f; b&#xfc;y&#xfc;k olan ablam belirdi. &#xa;&#xa;&#x201c;&#xd6;nce &#x15f;u sesine bir ayar ver&#x201d; dedi annem, &#x201c; bundan sonra b&#xf6;yle,sen bize kap&#x131;y&#x131; &#xe7;arpt&#x131;nbizde kap&#x131;n&#x131; s&#xf6;kt&#xfc;k art&#x131;k b&#xf6;yle kalacak odan&#x201d; dedi&#x11f;inde iyice sinirlendim. &#xa;&#xa;&#x201c;&#xdc;st&#xfc;m&#xfc; giyinece&#x11f;im burada anne, her halimi g&#xf6;recek misiniz?! Diye ba&#x11f;&#x131;rd&#x131;m. Kimse oturup da seni izlemeyecek&#x201d; dedi annem hemen ard&#x131;ndan ise &#x201c;&#x15f;imdi ba&#x11f;&#x131;rmay&#x131; kes odanda ne yaparsan yap&#x201d; dedi ve yan&#x131;mdan ayr&#x131;ld&#x131;. &#xa;&#xa;Arkas&#x131;ndan &#x201c;ablama neden b&#xf6;yle cezalar vermiyorsunuz?&#x201d; diye ba&#x11f;&#x131;rd&#x131;m. Ve bir ayap&#x131;m&#x131; sert&#xe7;e yere vurdum. Ablam ise bana g&#xfc;lerek bak&#x131;yordu, bir s&#xfc;re sonra g&#xfc;lerek yan&#x131;mdan ayr&#x131;ld&#x131;. &#xa;&#xa;Delirmem i&#xe7;in en b&#xfc;y&#xfc;k neden A&#x130;LEM &#xa;&#xa;Sinirle odam&#x131;n &#x131;&#x15f;&#x131;&#x11f;&#x131;n&#x131; ka&#x11f;att&#x131;m ve karanl&#x131;kta b&#x131;rakt&#x131;m kendimi. Hemen ard&#x131;ndan bilgisayar&#x131;m&#x131; al&#x131;p odam&#x131;n balkonuna ge&#xe7;tim ve balkon kap&#x131;s&#x131;n&#x131; &#xe7;arpt&#x131;m. Onlara inat Bilgisayar&#x131;m&#x131; a&#xe7;t&#x131;&#x11f;&#x131;mda hala g&#xf6;zlerim dolu doluygu. Bilgisayar&#x131;m&#x131;n &#x15f;ifresini girdi, ana ekran a&#xe7;&#x131;ld&#x131;&#x11f;&#x131;nda ise tam youtube&#x2019;a girecektim ki siyah bir ekran kaplad&#x131; bilgisayar&#x131;. &#xa;&#xa;Neler oluyordu bug&#xfc;n b&#xf6;yle? Ka&#x15f;lar&#x131;m &#xe7;at&#x131;k bir &#x15f;ekilde ekrana bakarken nas&#x131;l yaz&#x131;ld&#x131;&#x11f;&#x131;n&#x131; bilmedi&#x11f;im bir &#x15f;ekilde ekrana bakarken nas&#x131;l yaz&#x131;ld&#x131;&#x11f;&#x131;n&#x131; bilmedi&#x11f;im bir &#x15f;ekilde ye&#x15f;il renginde rakamlar yaz&#x131;lmaya ba&#x15f;land&#x131;. &#xa;&#xa;5,17,13,21,15,13,6,23,3,17,3,14,28,3,14 &#xa;&#xa;Buda neydi b&#xf6;yle? Ekran&#x131;mda birden beliren say&#x131;lara anlams&#x131;z bir &#x15f;ekilde bak&#x131;yordum. Biri &#x15f;aka falan m&#x131; yap&#x131;yordu?! &#xa;&#xa;Gece vakti saat &#xfc;&#xe7;te ailemle tart&#x131;&#x15f;m&#x131;&#x15f;t&#x131;m, bana sayg&#x131; duymayarak s&#x131;rf kap&#x131;y&#x131; &#xe7;artp&#x131;m diye ka&#x11f;&#x131;m&#x131; s&#xf6;km&#xfc;iler ve t&#xfc;m bu olanlar yetmezmi&#x15f; gibi kafam&#x131; da&#xfc;&#x131;tmak i&#xe7;in ald&#x131;&#x11f;&#x131;m bilgisayarda sa&#xe7;ma sa&#x11f;an rakamlarla kar&#x15f;&#x131;la&#x15f;&#x131;yorum. &#xa;&#xa;Ekrana birka&#xe7; saniye daha bakt&#x131;m en sonunda &#x201c;siktir&#x201d; diye m&#x131;r&#x131;ldand&#x131;m, &#x201c;anlam&#x131;yorum&#x201d; tam bilgisayar&#x131; kapatacakken ba&#x15f;ka say&#x131;lar daha yaz&#x131;lmaya ba&#x15f;land&#x131;. &#xa;&#xa;3,22,17,26,3,8,16,20,18,22 &#xa;&#xa;&#x201c;&#xc7;att&#x131;k ya&#x201d; diye m&#x131;r&#x131;ldand&#x131;m. Bir di&#x11f;er anlamad&#x131;&#x11f;&#x131;m nokta say&#x131;lar&#x131;n aras&#x131;na neden virg&#xfc;l koymas&#x131;yd&#x131;. &#xa;&#xa;Hi&#xe7; umursamadan direk bilgisayar&#x131; kapatt&#x131;m, bunlar i&#xe7;in vaktimi harcayamazd&#x131;m. Balkondan &#xe7;&#x131;k&#x131;p odama ge&#xe7;tim, &#xfc;zerime pijamalar&#x131;m&#x131; da giydikten sonra kendimi yata&#x11f;a att&#x131;m. &#xa;&#xa;Her ne kadar olmayan kap&#x131; can&#x131;m&#x131; s&#x131;ksa da umursamamaya &#xe7;al&#x131;&#x15f;arak g&#xf6;zlerimi ka&#x11f;att&#x131;m. &#xa;&#xa;Sabah g&#xf6;zlerimi i&#xe7;erden gelen seslerle a&#xe7;t&#x131;m, tabi kap&#x131;m olmad&#x131;&#x11f;&#x131; i&#xe7;in &#xe7;o&#x11f;u sesi daha net duyuyordum. &#xa;&#xa;Oflayarak yataktan do&#x11f;ruldum ve elime telefonumu alarak saate bakt&#x131;m, saat daha dokuzdu. &#xa;&#xa;Normal &#x15f;artlar alt&#x131;nda saat yedi de kalkan biri oldu&#x11f;um i&#xe7;in, &#x15f;uan ki kalkma saat&#x15f;&#x15f;m baya ge&#xe7;ti. &#xa;&#xa;Yataktan kalkt&#x131;&#x11f;&#x131;mda odam&#x131;n &#xf6;n&#xfc;nde dikilmi&#x15f; bana bakan annemi g&#xf6;rd&#xfc;m, &#x201c;&#x15f;&#xfc;k&#xfc;r kalkt&#x131;n&#x131;z Deniz Han&#x131;m&#x201d; dedi g&#xfc;l&#xfc;mseyerek. &#xa;&#xa;Bu dedi&#x11f;ine belki sinirlenebilirdim ama g&#xfc;l&#xfc;msemesi o kadar samimiydi ki, sonu&#xe7;ta annem niye tart&#x131;&#x15f;ay&#x131;m? Diye d&#xfc;&#x15f;&#xfc;nerek bende g&#xfc;l&#xfc;msedim ve &#x201c;evet ge&#xe7; kalkt&#x131;m biraz, &#xf6;z&#xfc;r dilerim&#x201d; dedim mahcup bir sesle. &#xa;&#xa;&#x201c;&#xd6;nemli de&#x11f;il anneci&#x11f;im hadi kahvalt&#x131;ya gel&#x201d; dedi ve i&#xe7;eri ge&#xe7;ti.Sanki d&#xfc;n hi&#xe7;bir &#x15f;ey ya&#x15f;anmam&#x131;&#x15f; gibi davranabiliyordu. &#xa;&#xa;&#xd6;z&#xfc;r dilemek yerine iyi davranmay&#x131; se&#xe7;iyordu san&#x131;r&#x131;m annem. Yatap&#x131;m&#x131; toplad&#x131;ktan sonra &#xfc;zerimi de&#x11f;i&#x15f;tirdim. Kendime bir &#xe7;eki d&#xfc;zen verdi&#x11f;imde a&#x15f;a&#x11f;&#x131; inerek kahvalt&#x131; masas&#x131;na oturdum. &#xa;&#xa;Babam elinde ki tabletten haberlere bakarken, ablam ise sessizce yeme&#x11f;ini yiyordu. Annem ise yapaca&#x11f;&#x131; al&#x131;&#x15f;veri&#x15f;ten bahsediyordu. &#xa;&#xa;Hi&#xe7; benlik bir &#x15f;ey olmad&#x131;&#x11f;&#x131;  i&#xe7;in bende sessizce karn&#x131;m&#x131; doyurmaya ba&#x15f;lad&#x131;m. Bu sessizli&#x11f;im ise babam&#x131;n s&#xf6;yledi&#x11f;i &#x15f;eylerle bozuldu. &#xa;&#xa;&#x201c;Son zamanlarda g&#xfc;ndem de Domineering Hackers diye bir hacker grubu var, herkes onlar&#x131; konu&#x15f;uyor&#x201d; dedi merak dolu bir sesle. T&#xfc;m g&#xfc;n&#xfc;n&#xfc; buna harcay&#x131;p her birini ara&#x15f;t&#x131;raca&#x11f;&#x131;ndan o kadar emindim ki. "/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="0" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Geri"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="C:\Users\Excalibur\OneDrive\Masa&#xfc;st&#xfc;\logo1.jpg"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

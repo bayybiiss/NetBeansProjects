@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.JTextField" name="jTextField1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jTextField1"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField1ActionPerformed"/>
+      </Events>
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,2,-61,0,0,3,14"/>
+    <SyntheticProperty name="formSizePolicy" type="int" value="0"/>
+    <SyntheticProperty name="generateSize" type="boolean" value="true"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="jButton1" min="-2" pref="110" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="601" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="554" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="           G&#xd6;K Y&#xdc;Z&#xdc;NDE&#xa;&#xa;&quot;Ak&#x15f;am yeme&#x11f;i i&#xe7;in al&#x131;&#x15f; veri&#x15f; yap&#x131;lacak. Dolapta bir &#x15f;ey kalmad&#x131;. Ben &#xe7;&#x131;k&#x131;yorum. Salak salak &#x15f;eyler yapma sak&#x131;n.&quot; Muslu&#x11f;un alt&#x131;ndan kanla kar&#x131;&#x15f;&#x131;k su ak&#x131;yordu. So&#x11f;uk suyun etkisiyle &#xe7;izikler de ac&#x131; yank&#x131;lan&#x131;yordu. &#xdc;zerine birka&#xe7; pe&#xe7;ete bast&#x131;r&#x131;p kendimce ac&#x131;n&#x131;n hafiflemesini bekledim. Yaralan&#x131;rs&#x131;n, biran &#xf6;nce yaran&#x131;n kabuk tutup iyile&#x15f;mesini beklersin ya, ben bu parmaklar&#x131;mdaki hen&#xfc;z kabuk tutmam&#x131;&#x15f; yara izleriyle ya&#x15f;lanmajy&#x131; dilerdim. &#xa;K&#xfc;&#xe7;&#xfc;k bir yara da olsa m&#xfc;him olan yaran&#x131;n kendisi de&#x11f;il, o yaray&#x131; a&#xe7;an ki&#x15f;iydi. Peki ya kalbimdeki &#xe7;ukur? &quot;Yara band&#x131; &#xe7;ekmecede. Yard&#x131;m etmemi ister misin?&quot; &#xa;&quot;Hay&#x131;r, ben hallederim.&quot;&#xa;&quot;Benimle gelmek ister misin? Temiz hava iyi gelir.&quot;&#xa;Pe&#xe7;eteyle &#x131;slakl&#x131;&#x11f;&#x131; kurutup ona d&#xf6;nd&#xfc;m. Yara band&#x131;n&#x131; bana do&#x11f;ru uzat&#x131;yordu. Parmaklar&#x131;m&#x131; uzat&#x131;p yaray&#x131;  kapatmas&#x131; i&#xe7;in izin verdim. Bo&#x15f; bak&#x131;&#x15f;ar&#x131;n&#x131; yz&#xfc;mde gezdiriyordu. Yara band&#x131;n&#x131; parmaklar&#x131;ma sar&#x131;p geri &#xe7;ekildi. Birka&#xe7; dakika sonra elinde montumla geldi.&#xa;&quot;Hadi.&quot;&#xa;&quot;Ben dinlenece&#x11f;im biraz. Ba&#x15f;&#x131;m a&#x11f;r&#x131;yor.&quot; &#x130;kna olmam&#x131;&#x15f; gibi elini aln&#x131;ma koyup ate&#x15f;imin olup olmad&#x131;&#x11f;&#x131;n&#x131; kontrol etti.&#xa;&quot;Ate&#x15f;in yok?&quot;&#xa;&quot;Y&#xfc;re&#x11f;im yang&#x131;n yeri. Ate&#x15f; neyime laz&#x131;m?&quot; G&#xfc;lerek montumu omzumun &#xfc;zerinine b&#x131;rakt&#x131;.&#xa;&quot;Arkada&#x15f;&#x131;m da gelecek. Sak&#x131;ncas&#x131; olur mu?&quot;&#xa;&quot;Arkada&#x15f;&#x131;n her zaman bizimle.&quot;&#xa;&quot;Sen olmasan onunla ayr&#x131; eve &#xe7;&#x131;kacakt&#x131;m.&quot;&#xa;&quot;Gideyim istersen?&quot;&#xa;&quot;Batuhan&apos;a kom&#x15f;u olmaya m&#x131;? &quot; Y&#xfc;z&#xfc;mdeki ac&#x131; ttebess&#xfc;mle montumu giyip telefonumu cebime koydum. Batuhan&apos;&#x131;n giyip telefonumu cebime koydum. Batuhan&apos;&#x131;n yeri bende apayr&#x131;yd&#x131;. &#xc7;&#xfc;nk&#xfc;  a&#x15f;&#x131;kt&#x131;m. &#x130;ki y&#x131;ld&#x131;r platoni&#x11f;in. A&#xe7;&#x131;lma&#x131; hi&#xe7; d&#xfc;&#x15f;&#xfc;nmedim. D&#xfc;&#x15f;&#xfc;nmem de. Batuhan&apos;a nas&#x131;l a&#x15f;&#x131;k oldum bilmiyorum ama, tek bildi&#x11f;im asla anla&#x15f;amayaca&#xfc;&#x131;m&#x131;zd&#x131;.&#xa;&quot;&#xc7;&#x131;k hadi. Bu gidi&#x15f;le  ak&#x15f;ama a&#xe7; kalaca&#x11f;&#x131;z.&quot; Botlar&#x131;m&#x131; giyerken sordum: &quot;Arkada&#x15f;&#x131;n ak&#x15f;am yeme&#x11f;ine gelmeyecektir umar&#x131;m?&quot;&#xa;&quot;Arkada&#x15f;&#x131;m dedi&#x11f;im bizim Ali ya. Hem sen evdeyken &#xe7;a&#x11f;&#x131;rmam yasak. Ev kurallar&#x131; malum. &#x15e;imdiden s&#xf6;yleyeyim, yar&#x131;n ma&#xe7; izlemeye bize gelecekler. Ona g&#xf6;re gidecek yer bul kendine.&quot; Erkekler ve ma&#xe7;lar...&#xa;Onun Galatasarayl&#x131; oldu&#x11f;unu biliyordum. Ama fanatik oldu&#x11f;unu d&#xfc;&#x15f;&#xfc;nm&#xfc;yorum. Umar&#x131;m ma&#xe7;a ilgisi yoktur.&#xa;&quot;Kadriye teyzeye giderim. Torunu gelecekti, onla tak&#x131;l&#x131;r&#x131;m.&quot;&#xa;&quot;Erkek mi?&quot;&#xa;&quot;Di&#x15f;i&quot;, dememle g&#xf6;zleri parlam&#x15f;t&#x131;.&#xa;&quot;Ka&#xe7; ya&#x15f;&#x131;nda?&quot;&#xa;&quot;Yirmi bir.&quot; Y&#x131;k&#x131;lan hayallerini izler gibi g&#xf6;z devirdi.&#xa;&quot;Arkada&#x15f;lar&#x131;n ya yirmi bir ya da yirmi &#xfc;&#xe7; ya&#x15f;&#x131;nda. Yok mu on yedisinde bir &#xe7;&#x131;t&#x131;r?&quot;&#xa;&quot;Yok.&quot; Arabaya bindikten sonra dikiz aynas&#x131;n&#x131; kendine &#xe7;evirip sa&#xe7;lar&#x131;n&#x131; d&#xfc;zeltmeye ba&#x15f;lad&#x131;.&#xa;Dalgal&#x131; sa&#xe7;lar&#x131; ger&#xe7;ekten &#xe7;ok ho&#x15f;tu. Bazen s&#x131;k&#x131;ld&#x131;k&#xe7;a elimi sa&#xe7;lar&#x131;nda gezdiriyor, uzun zamanlar tokalar&#x131;mla ba&#x11f;l&#x131;yordum sa&#xe7;lar&#x131;n&#x131;. Telefonumda bir s&#xfc;r&#xfc; if&#x15f;as&#x131; vard&#x131;. Gizli klas&#xf6;rdeyse Batuhan&apos;&#x131;n foto&#x11f;raflar&#x131;...&#xa;&quot;Elin ac&#x131;yor mu?&quot; &#xa;&quot;Hay&#x131;r.&quot;&#xa;&quot;Ac&#x131;yan elim de&#x11f;il, kalbim, demeyecek misin?&quot; G&#xfc;lerek ba&#x15f;&#x131;m&#x131; iki yana sallad&#x131;m.&#xa;&quot;&#xd6;nce kafeye gidelim. Ali orda bekliyor.&quot;&#xa;&quot;Kendisi gelemiyor mu?&quot;&#xa;&quot;Batuhan da kafede.&quot;&#xa;&quot;At yalan&#x131;.&quot;&#xa;&quot;Al bak, Alilerle.&quot; Batuhan&apos;&#x131;n yar&#x131;m saat &#xf6;nce payla&#x15f;m&#x131;&#x15f; oldu&#x11f;u foto&#x11f;raf&#x131; g&#xf6;sterdi. Batuhan&apos;dan pek haz etmiyor olsa da i&#x15f;ine geldi&#x11f;inde ad&#x131;n&#x131; &#xe7;ok g&#xfc;zel kullan&#x131;yordu. Mesela &#x15f;u an kafeye gidiyoruz. &#xa;&quot;Batuhan ve &#xfc;&#xe7; ki&#x15f;i daha,&quot; diye m&#x131;r&#x131;ldand&#x131;m.&#xa;&quot;Batuhan&apos;&#x131;n dersi yok muydu bug&#xfc;n?&quot;&#xa;&quot;Takip de ediyorsun Ma&#x15f;allah.&quot; Hay&#x131;r, ders program&#x131;na &#xf6;zellikle onun ad&#x131;n&#x131; aray&#x131;p s&#x131;rf onun i&#xe7;in Tarih Bilimi dersine kat&#x131;lmad&#x131;n Beren. Bunuu yapmad&#x131;n.&#xa;&quot;Saplant&#x131;l&#x131;s&#x131;n, Allah kurtars&#x131;n.&quot;&#xa;&quot;Bo&#x15f; yapma.&quot;&#xa;&quot;Batuhan da bizim kadroya kat&#x131;lmak &#xfc;zere.&quot; Yapt&#x131;&#x11f;&#x131; imaya kar&#x15f;&#x131;n &#x15f;a&#x15f;k&#x131;nca ona d&#xf6;nd&#xfc;m. Konu&#x15f;mama f&#x131;rsat vermeden an&#x131;nda elini direksiyona att&#x131;.&#xa;&quot;&#xd6;n&#xfc;ne bak salak. Kaza yapacaks&#x131;n.&quot; Kafama vurmas&#x131;yla &#xf6;n&#xfc;me d&#xf6;nerek yola konsantre oldum. Birka&#xe7; dakika sonra sordum: &quot;Batuhan yirmi &#xfc;&#xe7; ya&#x15f;&#x131;nda sen on sekiz. Sizin kadro&#x15f;ya nas&#x131;l giriyor? Yoksa-&quot;&#xa;&quot;Bizim grupta her ya&#x15f; grubu var. Hatta en k&#xfc;&#xe7;&#xfc;kleri benim. On sekiz ve yirmi d&#xf6;rt ya&#x15f; aras&#x131; her cins var.&quot;&#xa;&quot;Ka&#xe7; ki&#x15f;isiniz ki?&quot;&#xa;&quot;Be&#x15f;.&quot;&#xa;&quot;De&#x11f;i&#x15f;ik.&quot;Kafenin &#xf6;n&#xfc;nde durup arabay&#x131; kald&#x131;r&#x131;m kenar&#x131;na park ettikten sonra indik. G&#xf6;zlerim kafenin i&#xe7;ine kayarken i&#xe7;imdeki ses geri d&#xf6;nmemi s&#xf6;yl&#xfc;yyordu. Yi&#x11f;it anlam&#x131;&#x15f; olacak ki koluma girip y&#xfc;r&#xfc;meye ba&#x15f;lad&#x131;. Kula&#x11f;&#x131;ma e&#x11f;ilim, &quot;Deli oldu&#x11f;unu kan&#x131;tlamaya &#xe7;al&#x131;&#x15f;ma sak&#x131;n.&quot;&#xa;&quot;Bo&#x15f; bo&#x15f; konu&#x15f;ma ya.&quot; Diyerek i&#xe7;eri do&#x11f;ru ittirdim. En k&#xf6;&#x15f;ede biraz b&#xfc;y&#xfc;k bir masada toplanm&#x131;&#x15f; d&#xf6;rt ki&#x15f;i aras&#x131;nda telefonunda bir &#x15f;ey g&#xf6;stererek g&#xfc;l&#xfc;yordu Batuhan. Yi&#x11f;it, Ali&apos;yi &#xe7;a&#x11f;&#x131;rmak yerine bo&#x15f; bir yere oturunca ne  yapaca&#x11f;&#x131;m&#x131; bilemeyerek bo&#x15f; bo&#x15f; beklemeye ba&#x15f;lad&#x131;m. &#xa;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="0" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Geri"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="2" name="C:\Users\Excalibur\OneDrive\Masa&#xfc;st&#xfc;\logo1.jpg"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
